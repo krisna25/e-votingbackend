@@ -1,9 +1,8 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
-const morgan = require("morgan");
 const cors = require("cors");
-
+const path = require("path");
 const keys = require("./src/config/keys");
 const routes = require("./src/routes/index");
 const app = express();
@@ -34,9 +33,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: false
 }));
-
-
-
+app.use(express.static(path.join(__dirname,'public')));
 
 routes(app);
 

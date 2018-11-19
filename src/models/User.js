@@ -1,22 +1,26 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const bcrypt = require('bcrypt');
+const uniqueValidator = require('mongoose-unique-validator');
 
 const UserSchema = new Schema({
-    name: {
-        type: String,
-        required: true
+    ktp: {
+        type: Schema.Types.ObjectId,
+        ref:"ktp"
     },
     noKtp: {
-        type: String
+        type: String,
+        unique: true,
+        required: true
     },
     noKk: {
         type: String,
-        required: true
+        required: true,
     },
-    email: {
-        type: String,
-        required: true
+    role: {
+        type: Number,
+        required: true,
+        default: 1
     },
     password: {
         type: String,
@@ -26,9 +30,9 @@ const UserSchema = new Schema({
         type: String,
         required: false,
     },
-    confirmpassword: {
+    log: {
         type: String,
-        required: true,
+        required: false,
     },
     updatedAt: {
         type: Date
@@ -36,10 +40,6 @@ const UserSchema = new Schema({
     createdAt: {
         type: Date,
         default: Date.now()
-    },
-    deletedAt: {
-        type: Date,
-        default: null
     }
 });
 
@@ -58,9 +58,9 @@ UserSchema.pre("save", function (next) {
             next();
         });
     });
-
-
 });
+
+UserSchema.plugin(uniqueValidator);
 
 const User = mongoose.model('user', UserSchema);
 
