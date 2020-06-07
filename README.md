@@ -10,7 +10,7 @@ Project ini dibuat dengan menggunakan Framework ExpressJs dan database mongoDb. 
 
 CARA PENGGUNAAN:
   - install node module
-    ketikan pada terminal npm install
+    ketik pada terminal:  npm install
   
   - jalankan dengan perintah :
     nodemon
