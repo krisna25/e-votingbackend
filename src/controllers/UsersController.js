@@ -134,5 +134,12 @@ module.exports = {
         });
         res.json(result);
     },
+    async getUserById(req, res, next) {
+        
+        const result = await User.findById(req.body.id).populate({
+            path: 'ktp'
+        });
+        res.json(result);
+    },
 
 }

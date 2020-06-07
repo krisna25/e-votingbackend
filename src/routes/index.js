@@ -31,6 +31,8 @@ module.exports = (app) => {
     app.post('/api/rekapnewvote',RekapitulasiController.rekapnewvote);
     app.post('/api/kursiUpdate',RekapitulasiController.kursiUpdate);
     app.post('/api/pastikanCaleg',RekapitulasiController.pastikanCaleg);
+    app.post('/api/updateKTP',SeederController.updateKTP);
+    app.post('/api/getUserById',UserController.getUserById);
     
     app.get('/api/getVoteLifeCircle', VoteStatusController.getVoteLifeCicle);
     app.get('/api/getkursi', RekapitulasiController.getkursi);

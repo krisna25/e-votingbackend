@@ -8,7 +8,8 @@ const ParpolSchema = new Schema({
     },
     name: {
         type: String,
-        required: true
+        required: true,
+        index: true
     },
     akronim: {
         type: String,
@@ -22,7 +23,7 @@ const ParpolSchema = new Schema({
         type: String,
         required: true
     }
-});
+},{ autoCreate: true });
 const Parpol= mongoose.model('parpol', ParpolSchema);
 
 module.exports = Parpol;

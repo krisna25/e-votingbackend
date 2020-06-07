@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "5b540d4e0743110528028ac8"
+  },
+  "nama": "Rekapitulasi",
+  "status": false,
+  "timeStart": null,
+  "timeEnd": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b540d5a0743110528028ac9"
+  },
+  "nama": "Voting",
+  "status": false,
+  "timeStart": null,
+  "timeEnd": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b597af5780caa2b3055298d"
+  },
+  "nama": "Publikasi Hasil ",
+  "status": false,
+  "timeStart": null,
+  "timeEnd": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b60987986476c251c6e4d09"
+  },
+  "nama": "Panik Button Vote",
+  "status": false,
+  "timeStart": null,
+  "timeEnd": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b60988086476c251c6e4d0a"
+  },
+  "nama": "Panik Button Rekap",
+  "status": false,
+  "timeStart": null,
+  "timeEnd": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b60988886476c251c6e4d0c"
+  },
+  "nama": "Panik Button Publish",
+  "status": false,
+  "timeStart": null,
+  "timeEnd": null,
+  "__v": 0
+}]

@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "name": "PARTAI AMANAT NASIONAL",
+  "akronim": "PAN",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1UUFK2gA-lrRc9uRAymzpq4ygWVGcT_ig",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "name": "PARTAI BERKARYA",
+  "akronim": "BERKARYA",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1bfjgfefKX6f22wOmEtG4LdohZJ7jFVvL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "name": "PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+  "akronim": "PDI PERJUANGAN",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1ubM9IGH2HeQL6mTcl-rimhzhPD9ycHRV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "name": "PARTAI DEMOKRAT",
+  "akronim": "Partai Demokrat",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1OYj3_7mCjmiCNr3SjmhSq-PdF1b3eyGw",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "name": "PARTAI GERAKAN INDONESIA RAYA",
+  "akronim": "GERINDRA",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1hDRkLiqIQB_RvufhpdW76OwQ6seG8dlD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "name": "PARTAI GERAKAN PERUBAHAN INDONESIA",
+  "akronim": "Garuda",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=18vYnklldZtrAHJtQ3QfXuzmi0R3FPXEH",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "name": "PARTAI GOLONGAN KARYA",
+  "akronim": "GOLKAR",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1B70sHULFnTn4QH-Xekk_5cPqlDWSrobS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "name": "PARTAI HATI NURANI RAKYAT",
+  "akronim": "HANURA",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1MT20bPJ-t4QUdtuVdG5H9W4r1xxKHflr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "name": "PARTAI KEADILAN SEJAHTERA",
+  "akronim": "PKS",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1CbrDfqSLRDKuqENKqgOPe-WYYpvCjIxb",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "name": "PARTAI KEBANGKITAN BANGSA",
+  "akronim": "PKB",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1IEMOA-6EwIOTOwwwx7Bb6xCwXL_GdasM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "name": "PARTAI NASDEM",
+  "akronim": "Nasdem",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1Nmykiz_sIWse2im8RfcHzu7vT0dTiJp-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "name": "PARTAI PERSATUAN PEMBANGUNAN",
+  "akronim": "PPP",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1aZko_UdGLe_oPgaeGx_Wxf5cnfKRkjbW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "name": "PARTAI SOLIDARITAS INDONESIA",
+  "akronim": "PSI",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1VGOQIa4ZwKpC_Wmx-FeuUZauHy0ZYADS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "name": "PERSATUAN INDONESIA",
+  "akronim": "PERINDO",
+  "category": "1",
+  "bendera": "https://drive.google.com/uc?id=1cPb4y3Y73tbnGh6FPRO3J5ir06fqwmNZ",
+  "__v": 0
+}]

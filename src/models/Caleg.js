@@ -7,7 +7,8 @@ const CalegSchema = new Schema({
     },
     name:{
         type:String,
-        required:true
+        required:true,
+        index: true
     },
     img:{
         type:String,
@@ -29,7 +30,7 @@ const CalegSchema = new Schema({
         type: String,
         required: true
     }
-});
+},{ autoCreate: true});
 const Caleg = mongoose.model('caleg', CalegSchema);
 
 module.exports = Caleg;

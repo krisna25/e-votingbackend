@@ -6,7 +6,8 @@ const RekapSchema = new Schema({
     },
     dapil: {
         type: String,
-        required: true
+        required: true,
+        index: true
     },vote:{
         type:Array,
         required:true
@@ -18,7 +19,7 @@ const RekapSchema = new Schema({
         type: Date,
         default: Date.now()
     }
-});
+},{ autoCreate: true});
 const Rekap = mongoose.model('rekap', RekapSchema);
 
 module.exports = Rekap;

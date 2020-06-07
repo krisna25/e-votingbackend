@@ -1,0 +1,1713 @@
+[{
+  "_id": {
+    "$oid": "5b3c3cae43b0aa1f285daad1"
+  },
+  "role": 0,
+  "createdAt": {
+    "$date": "2018-07-04T03:13:25.547Z"
+  },
+  "ktp": {
+    "$oid": "5b3976e8c21ba319200e0c60"
+  },
+  "noKtp": "adminvote",
+  "noKk": "adminvote",
+  "password": "$2a$10$gQ3cBeHbFRRjlJNzmVKW5OBKbl7.zlgCCS3yi0QCekwuqm7DxpmbK",
+  "log": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb43bd37cb162094048a39"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T06:26:26.578Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048555"
+  },
+  "noKtp": "3673042106920001",
+  "noKk": "3673043004820001",
+  "password": "$2b$10$KL4NlwHuue9oaYr4U6kYr.AO6yXl99FxgYiDCzZhlo1T/AgIRypXm",
+  "log": "Sun Jun 07 2020 07:49:54 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048945/5edb43bd37cb162094048a39",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb4d89b97bd92574379217"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048557"
+  },
+  "noKtp": "3601021308770003",
+  "noKk": "3601022805570001",
+  "password": "$2b$10$qOAeksJFQRLgBM1JLmTCQeMqj8vrvsp1sODX6g9ilb1XetasQ4qta",
+  "log": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb4deab97bd92574379218"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb16209404855d"
+  },
+  "noKtp": "3601022806470009",
+  "noKk": "3601022805570001",
+  "password": "$2b$10$pdZDczbFL4mZ4aYIF81lEeHaJWyfHB3bN0H7ZRi/25FBDH9DYxXPq",
+  "log": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb4e32b97bd92574379219"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048587"
+  },
+  "noKtp": "3601022302680051",
+  "noKk": "3601022805570001",
+  "password": "$2b$10$Rg4oxffwCJWRnl51zEePo.WVmDLUj6WPoO.rxQzBsw4goW6pADw9i",
+  "log": "Sun Jun 07 2020 06:52:06 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048967/5edb4e32b97bd92574379219",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb4f02b97bd9257437921a"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb16209404855e"
+  },
+  "noKtp": "3672022711650010",
+  "noKk": "3672020712710001",
+  "password": "$2b$10$MznDaBroTZLn6yRra1i/POK8vZd4BGoyzkUtjzsNsZ2JgY8VADuCu",
+  "log": "Sun Jun 07 2020 06:53:12 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404896f/5edb4f02b97bd9257437921a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb4f29b97bd9257437921b"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb16209404855f"
+  },
+  "noKtp": "3673022103690011",
+  "noKk": "3672020712710001",
+  "password": "$2b$10$MGhWUutTqthzTkDxw2aev.csBTfDnfhxvOQQzHVWpNAGg6uax9J/S",
+  "log": "Sun Jun 07 2020 07:50:17 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404893f/5edb4f29b97bd9257437921b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb4f5fb97bd9257437921c"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb16209404856c"
+  },
+  "noKtp": "3672022309620024",
+  "noKk": "3672020712710001",
+  "password": "$2b$10$FivtdPPFGgN3xtylXlkmD.XaRxgd7Mhc6HbWQ33LoMt46GoVO6ZZG",
+  "log": "Sun Jun 07 2020 06:53:40 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404893f/5edb4f5fb97bd9257437921c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5018b97bd9257437921e"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048714"
+  },
+  "noKtp": "3602041002500448",
+  "noKk": "3602040705620004",
+  "password": "$2b$10$BF7gjBd.axwy8KdSyDt36eoVFkuKTHmg0NK9aEuJygDHL4VLRxHRq",
+  "log": "Sun Jun 07 2020 06:54:30 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048961/5edb5018b97bd9257437921e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb502eb97bd9257437921f"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404872c"
+  },
+  "noKtp": "3602040905590472",
+  "noKk": "3602040705620004",
+  "password": "$2b$10$P8NW9GrJntgAEK7SxftdZu5AGFAWE7INKUlGpPbYSkgXQSh7qGI7K",
+  "log": "Sun Jun 07 2020 06:54:54 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048949/5edb502eb97bd9257437921f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb517ab97bd92574379220"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404865c"
+  },
+  "noKtp": "3602041403600264",
+  "noKk": "3602040705620003",
+  "password": "$2b$10$ULwRK0XsW.GuOQod85L.ley3hZoC2MkeBs.8zvZE0jrg/MQZ.S8UK",
+  "log": "Sun Jun 07 2020 06:55:40 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404896d/5edb517ab97bd92574379220",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb51aeb97bd92574379221"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404866e"
+  },
+  "noKtp": "3602041112760282",
+  "noKk": "3602040705620003",
+  "password": "$2b$10$gOyefI3S9YLsG6Fu/jjmheU1bYWrEa1bQs1lTQ9zWPH8tqZEUchui",
+  "log": "Sun Jun 07 2020 06:55:12 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404894a/5edb51aeb97bd92574379221",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb51fdb97bd92574379222"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048684"
+  },
+  "noKtp": "3602041501980304",
+  "noKk": "3602040705620003",
+  "password": "$2b$10$K3IsNfi4AdHDJVN7PcM6penfWVJOk/tcNFGvW9JFULfS88F32yap6",
+  "log": "Sun Jun 07 2020 06:55:58 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404894a/5edb51fdb97bd92574379222",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5319b97bd92574379223"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb16209404856a"
+  },
+  "noKtp": "3602022410980022",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$3M8hXeOK/espRoGnQIXy6OSePb9QefB2prZQoVjpbSJIDqr5vaURW",
+  "log": "Sun Jun 07 2020 06:56:39 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048991/5edb5319b97bd92574379223",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5330b97bd92574379224"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485b3"
+  },
+  "noKtp": "3602022506590095",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$GXTnzUTEriaoGdtehKgKyuF4GZLs5DYa64SbqWcYW46iAOcW0hCSa",
+  "log": "Sun Jun 07 2020 06:57:42 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048979/5edb5330b97bd92574379224",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb53cfb97bd92574379225"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048565"
+  },
+  "noKtp": "3604011010770017",
+  "noKk": "3604012407940001",
+  "password": "$2b$10$rxy5SqtBNmiHLt6LxzzDYe9Kld4omwKiLiE9YGAA0Xe3ewmk5kH.e",
+  "log": "Sun Jun 07 2020 06:58:37 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048975/5edb53cfb97bd92574379225",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb53e4b97bd92574379226"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404859d"
+  },
+  "noKtp": "3604012807890073",
+  "noKk": "3604012407940001",
+  "password": "$2b$10$jBgpJ169aVc7iWQfPd4wSu9Ga4Sk9xmcm59rK9iJTLy/eduJ.yXii",
+  "log": "Sun Jun 07 2020 07:00:04 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048975/5edb53e4b97bd92574379226",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb546bb97bd92574379227"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485ac"
+  },
+  "noKtp": "3604012306810088",
+  "noKk": "3604012407940001",
+  "password": "$2b$10$rFX5yN9Nnn72lVzRGbUsteeE.WdL2UuNiSPg4ARNbZLHTKx5JA84i",
+  "log": "Sun Jun 07 2020 07:00:23 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048945/5edb546bb97bd92574379227",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb549fb97bd92574379228"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485a4"
+  },
+  "noKtp": "3604012802020080",
+  "noKk": "3604012407940001",
+  "password": "$2b$10$UzK/H/9KC/bfHz1C4RlLcOI8Aekq5kSmmMLpP2pjZzIlOxE1A6wuu",
+  "log": "Sun Jun 07 2020 07:01:07 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489ec/5edb549fb97bd92574379228",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5581b97bd92574379229"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048558"
+  },
+  "noKtp": "3672031807980004",
+  "noKk": "3672033108980001",
+  "password": "$2b$10$ejUrYZtpRJuc48kGBjL7juiRpoj/TjzLS2vs.zTE9iEdUoCB0AGru",
+  "log": "Sun Jun 07 2020 07:01:28 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048963/5edb5581b97bd92574379229",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb559bb97bd9257437922a"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048567"
+  },
+  "noKtp": "3672030204980019",
+  "noKk": "3672033108980001",
+  "password": "$2b$10$oy3f3VT/ThjCZ4E/gxVcIOWvyKToRBRUFLNr5NTvK3Y.l/wSz1T9K",
+  "log": "Sun Jun 07 2020 07:02:45 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048945/5edb559bb97bd9257437922a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb55f6b97bd9257437922b"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485d1"
+  },
+  "noKtp": "3601031502640125",
+  "noKk": "3601030706880002",
+  "password": "$2b$10$GnsLki2.TBfv37FsPFAUh.gzmoHXr64V3q0qGqgoKj1ziBoX81lHK",
+  "log": "Sun Jun 07 2020 07:03:04 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404893d/5edb55f6b97bd9257437922b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb560ab97bd9257437922c"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485d2"
+  },
+  "noKtp": "3671032804780126",
+  "noKk": "3601030706880002",
+  "password": "$2b$10$HwamH1.GGmHX4IamD7oeDegQDf5RgRiSS7H4B2vIou6DWw0clkOOm",
+  "log": "Sun Jun 07 2020 07:03:30 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404896b/5edb560ab97bd9257437922c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5636b97bd9257437922f"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485d3"
+  },
+  "noKtp": "3601041011470127",
+  "noKk": "3601030706880002",
+  "password": "$2b$10$QUDd/KCP4hwFvw.Tl3x98u/x6Wy6L6w.CqvdNLCy.3OuSlmfYBQV.",
+  "log": "Sun Jun 07 2020 07:04:10 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404893d/5edb5636b97bd9257437922f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb566bb97bd92574379232"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485d4"
+  },
+  "noKtp": "3671011709860128",
+  "noKk": "3601030706880002",
+  "password": "$2b$10$cP2rjaL6jgx2b1E8GwxFk.M8hQVFSQe/4D0TWj58H1qJ0wmq.IAoi",
+  "log": "Sun Jun 07 2020 07:04:24 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048941/5edb566bb97bd92574379232",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5a06b97bd92574379233"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485d5"
+  },
+  "noKtp": "3672031509440129",
+  "noKk": "3601030706880002",
+  "password": "$2b$10$Pi9l16HKpHKdEVF7.e.ADO9gqFFL6hnPyfC3H2/JEg7srb5LbeFHy",
+  "log": "Sun Jun 07 2020 07:04:43 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404893f/5edb5a06b97bd92574379233",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5a2bb97bd92574379234"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485d6"
+  },
+  "noKtp": "3604041406680130",
+  "noKk": "3601030706880002",
+  "password": "$2b$10$AR/mDO70wi0mibrzTbsUMOntOmXan3cG8STavbM4Fk41ZDFR7j/DG",
+  "log": "Sun Jun 07 2020 07:04:57 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048981/5edb5a2bb97bd92574379234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5a53b97bd92574379236"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485df"
+  },
+  "noKtp": "3601031606700139",
+  "noKk": "3601030706880002",
+  "password": "$2b$10$1IeAtnTqgtV/X3jPg20E9uKyjtmMD6JNQOkEcM0bbfBoEAds2rDsm",
+  "log": "Sun Jun 07 2020 07:05:22 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048967/5edb5a53b97bd92574379236",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5a74b97bd92574379237"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404862d"
+  },
+  "noKtp": "3601030705970217",
+  "noKk": "3601030706880002",
+  "password": "$2b$10$JdRPfwz4.ON4fjJKxffwZ.1kD1q96Vn06.TD0VFHIhmNpsOM7.qOy",
+  "log": "Sun Jun 07 2020 07:05:52 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404896d/5edb5a74b97bd92574379237",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5a8ab97bd92574379238"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404862e"
+  },
+  "noKtp": "3601030302580218",
+  "noKk": "3601030706880002",
+  "password": "$2b$10$zvVPXMKtpGaEGfF7GNc74uF7dQJvdhC3edkWkmtgSIDYezb4itkwu",
+  "log": "Sun Jun 07 2020 07:11:26 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048949/5edb5a8ab97bd92574379238",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5b6fb97bd92574379239"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048581"
+  },
+  "noKtp": "3674021510790045",
+  "noKk": "3674021503910001",
+  "password": "$2b$10$qU2q4g06b3RwQHfu.Jrfnu/./AubbskLjffXkGdUf6apHDEVsMu6S",
+  "log": "Sun Jun 07 2020 07:11:53 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404894d/5edb5b6fb97bd92574379239",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5b85b97bd9257437923a"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485e0"
+  },
+  "noKtp": "3674021711810140",
+  "noKk": "3674021503910001",
+  "password": "$2b$10$VTM5w93G3sD3f2Bw3ZDBK.kFSYb8xx.ibqcp4ph05OnkRgnHbgURW",
+  "log": "Sun Jun 07 2020 07:12:08 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404895f/5edb5b85b97bd9257437923a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5ba7b97bd9257437923b"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048649"
+  },
+  "noKtp": "3674021603940245",
+  "noKk": "3674021503910001",
+  "password": "$2b$10$.LO.qlvzJkQKCxQyI7QSUudQvbMf25hzvWQC61EK764GtLsP7jGtC",
+  "log": "Sun Jun 07 2020 07:12:31 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404894d/5edb5ba7b97bd9257437923b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5bd3b97bd9257437923c"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404864a"
+  },
+  "noKtp": "3672012511710246",
+  "noKk": "3674021503910001",
+  "password": "$2b$10$sj5qi2Sfo9aJte4VOcutV.Qr4NJtxEcXUW09C2cutJrzAo34BnOSK",
+  "log": "Sun Jun 07 2020 07:12:47 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404894b/5edb5bd3b97bd9257437923c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5bedb97bd9257437923d"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404864c"
+  },
+  "noKtp": "3674022202020248",
+  "noKk": "3674021503910001",
+  "password": "$2b$10$cgqpN8BJ/MLXTB4ffQpIeeJrtPYnpYz48YGX4.HWEnYml66tFqDjW",
+  "log": "Sun Jun 07 2020 07:13:06 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048965/5edb5bedb97bd9257437923d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5bfeb97bd9257437923e"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404864d"
+  },
+  "noKtp": "3603020108940249",
+  "noKk": "3674021503910001",
+  "password": "$2b$10$Bhsj8eGPeC0AnjezCcbxG.85.uLNICVRpqqMTsLfArIJM/4bgU21a",
+  "log": "Sun Jun 07 2020 07:13:23 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489ee/5edb5bfeb97bd9257437923e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5c17b97bd9257437923f"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404864e"
+  },
+  "noKtp": "3604040408820250",
+  "noKk": "3674021503910001",
+  "password": "$2b$10$E5hnHo7qqjlCBA7uWxFy3./4bFA7I/sj3Nt5nU4Ze9SjeQQs22xUu",
+  "log": "Sun Jun 07 2020 07:13:39 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489ec/5edb5c17b97bd9257437923f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5c2db97bd92574379240"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404864f"
+  },
+  "noKtp": "3673032703480251",
+  "noKk": "3674021503910001",
+  "password": "$2b$10$ZJEJx28LqgY4Jsg8J.BvTu/Y7nuplPDOh2.La16iG8OiaCQCUFOfi",
+  "log": "Sun Jun 07 2020 07:13:54 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489ec/5edb5c2db97bd92574379240",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5cccb97bd92574379241"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048574"
+  },
+  "noKtp": "3671040403620032",
+  "noKk": "3671042707880001",
+  "password": "$2b$10$n6T44k4JmmTU93saxiMvSuUUmfMu.HD8K8iRQPtktercMO56F7z.C",
+  "log": "Sun Jun 07 2020 07:14:10 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048953/5edb5cccb97bd92574379241",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5ce1b97bd92574379242"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048577"
+  },
+  "noKtp": "3671040908420035",
+  "noKk": "3671042707880001",
+  "password": "$2b$10$vda6XFhXCxkvVqw5hz5i8ehpC.PhNjEhQQzuwJAYkcUGzTT1GbLC2",
+  "log": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5d80b97bd92574379243"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486f9"
+  },
+  "noKtp": "3603031702390421",
+  "noKk": "3603030401750006",
+  "password": "$2b$10$sH4d8a3ZqQW1jo6NsAj8m.PhhKr.juBgbf2vGSNW1zs33748J3NE6",
+  "log": "Sun Jun 07 2020 07:14:32 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048941/5edb5d80b97bd92574379243",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5db1b97bd92574379244"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048708"
+  },
+  "noKtp": "3603031806660436",
+  "noKk": "3603030401750006",
+  "password": "$2b$10$U3Qm5i91HM9aKydPCFPwyuEa55THO15lY.08Mo1utVUYnm/opIs8G",
+  "log": "Sun Jun 07 2020 07:15:06 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb16209404899c/5edb5db1b97bd92574379244",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb5dcfb97bd92574379245"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T08:00:36.591Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048725"
+  },
+  "noKtp": "3603030401490465",
+  "noKk": "3603030401750006",
+  "password": "$2b$10$IqhBQ4f/pJzJp6AKRzrnI.PqE3oO8TkfTxZAJK8woyLkKT.Hx4/vC",
+  "log": "Sun Jun 07 2020 07:15:21 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048941/5edb5dcfb97bd92574379245",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc322fb9dbec2868ece80c"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048698"
+  },
+  "noKtp": "3601032311620324",
+  "noKk": "3601030706880004",
+  "password": "$2b$10$EYFYuOOci9eob/eBpZZSmuzHwOFhkmyixgyozvdFB2OXkQn95Q4Uq",
+  "log": "Sun Jun 07 2020 07:17:54 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048943/5edc322fb9dbec2868ece80c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc325cb9dbec2868ece80d"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048699"
+  },
+  "noKtp": "3672020406970325",
+  "noKk": "3601030706880004",
+  "password": "$2b$10$g2/aqwHxHs/dod9o79f1oOycaYhF.UaYqMDOS9x2ecUxx0jXw2iPy",
+  "log": "Sun Jun 07 2020 07:18:38 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048945/5edc325cb9dbec2868ece80d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc328cb9dbec2868ece80e"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404869a"
+  },
+  "noKtp": "3673012112410326",
+  "noKk": "3601030706880004",
+  "password": "$2b$10$mz6GYEpH.pUlErJ1DDrRse9wR3BAHqfvsxsMz20XSyGA7mTmG0RwO",
+  "log": "Sun Jun 07 2020 07:19:26 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489ad/5edc328cb9dbec2868ece80e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc32b9b9dbec2868ece80f"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404869b"
+  },
+  "noKtp": "3603021602720327",
+  "noKk": "3601030706880004",
+  "password": "$2b$10$J48aomcyvz4HWoel/x03/.sLYplSa9856NyrNtv9HnaAh6UeDXrzy",
+  "log": "Sun Jun 07 2020 07:20:12 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489cc/5edc32b9b9dbec2868ece80f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3303b9dbec2868ece810"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486ed"
+  },
+  "noKtp": "3601032110460409",
+  "noKk": "3601030706880004",
+  "password": "$2b$10$Yc5szP8I6sYWbRyN4QiP7.8ppokyfPhV2nFqOQB8E/Yyf28LVtaJe",
+  "log": "Sun Jun 07 2020 07:21:26 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048943/5edc3303b9dbec2868ece810",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc332eb9dbec2868ece811"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048709"
+  },
+  "noKtp": "3601032109490437",
+  "noKk": "3601030706880004",
+  "password": "$2b$10$y8q0mrQGvgmPVWs6ofuLX.FZw3.WBr/woT5CjLN8SNAwk31M07yCW",
+  "log": "Sun Jun 07 2020 07:22:09 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048943/5edc332eb9dbec2868ece811",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc33f8b9dbec2868ece812"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb1620940488c9"
+  },
+  "noKtp": "3601032211570885",
+  "noKk": "3601030706880008",
+  "password": "$2b$10$imO7LpfBba6zXfHFCvz2Z.ktxF2m1nHxUEup7PoAlBmuTObU.F40m",
+  "log": "Sun Jun 07 2020 07:25:31 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048973/5edc33f8b9dbec2868ece812",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc341db9dbec2868ece813"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb1620940488ca"
+  },
+  "noKtp": "3601040704910886",
+  "noKk": "3601030706880008",
+  "password": "$2b$10$Cl62sp/qZzjNoojruPmr.OF4mkLs5U5FuWY8W9IAmTWLW8dJu1J..",
+  "log": "Sun Jun 07 2020 07:26:08 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404894a/5edc341db9dbec2868ece813",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3448b9dbec2868ece814"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb1620940488cb"
+  },
+  "noKtp": "3672032802020887",
+  "noKk": "3601030706880008",
+  "password": "$2b$10$ptYBW.Hc3NX55zISFWquxe6CyTmJj1kvmqV2TsPkS1UimyPNTFHQy",
+  "log": "Sun Jun 07 2020 07:26:52 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489e9/5edc3448b9dbec2868ece814",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3468b9dbec2868ece815"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb1620940488cc"
+  },
+  "noKtp": "3673011007640888",
+  "noKk": "3601030706880008",
+  "password": "$2b$10$AyzBR6Crj8EJjJ2IVn3y1ulbcSVdLZ.mc2WNskoujs5ltxfkpUipu",
+  "log": "Sun Jun 07 2020 07:27:30 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489e9/5edc3468b9dbec2868ece815",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc34a2b9dbec2868ece816"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb1620940488ea"
+  },
+  "noKtp": "3601031808950918",
+  "noKk": "3601030706880008",
+  "password": "$2b$10$MRL9FJIYUXbydI00cMu2DOagCjX/CYxXjBEQAYadOQ.MV6tM1oE/W",
+  "log": "Sun Jun 07 2020 07:28:21 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048949/5edc34a2b9dbec2868ece816",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc34f9b9dbec2868ece817"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb1620940488f6"
+  },
+  "noKtp": "3674030702750930",
+  "noKk": "3601030706880008",
+  "password": "$2b$10$/1agNCUpHNTy.65nKB1mBe.xOxzQhQswOcrOIVMvxHMXSBq3oq3l6",
+  "log": "Sun Jun 07 2020 07:29:48 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404896b/5edc34f9b9dbec2868ece817",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc354cb9dbec2868ece818"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb1620940488f7"
+  },
+  "noKtp": "3601032111900931",
+  "noKk": "3601030706880008",
+  "password": "$2b$10$XlMltlhMRBOMqgRhfh9xKOQ7SmHOgPQe9WBbiof8JDLQtM9e5hV1W",
+  "log": "Sun Jun 07 2020 07:31:11 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404893d/5edc354cb9dbec2868ece818",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc37dab9dbec2868ece81a"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487a7"
+  },
+  "noKtp": "3602021011450595",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$6R3V8pBcvVpn.FsMmabJqOpgZgEIX0IxeU99nucfJltZdSL2pmn/O",
+  "log": "Sun Jun 07 2020 07:42:06 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048943/5edc37dab9dbec2868ece81a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc382bb9dbec2868ece81b"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487bd"
+  },
+  "noKtp": "3602023103480617",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$1TFXxW3dsyUpUxkdIbBcJ..UoFcvThOev7nnIhsoJ774HZU9q3Ruy",
+  "log": "Sun Jun 07 2020 07:43:29 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048949/5edc382bb9dbec2868ece81b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3856b9dbec2868ece81c"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487cb"
+  },
+  "noKtp": "3602022109020631",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$RGawI1eVYejyVd9hf4Cma.mOt8tPrDBP9l2/IiQuD9/ZoKTtFctYO",
+  "log": "Sun Jun 07 2020 07:44:08 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489f4/5edc3856b9dbec2868ece81c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc388bb9dbec2868ece81d"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487d1"
+  },
+  "noKtp": "3602020108830637",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$CtHfgkZKP6yVtLVWSbugSuP2Chfx1xlgezaLL3YDuWRptC4q.ax9K",
+  "log": "Sun Jun 07 2020 07:45:01 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489e8/5edc388bb9dbec2868ece81d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc38adb9dbec2868ece81e"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487d2"
+  },
+  "noKtp": "3603040301940638",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$VG8sE1y6Zpf2UB81/DGTrOn5QwZkB0eXWIVcecHqcXbzJYHBlM.qm",
+  "log": "Sun Jun 07 2020 07:45:36 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404894d/5edc38adb9dbec2868ece81e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc38d7b9dbec2868ece81f"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487ea"
+  },
+  "noKtp": "3602022612960662",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$kxPi9NSRWXCNpwFk.G1lFOZq/1V2KFeWVpFgctoQCjocUXfeAG9j2",
+  "log": "Sun Jun 07 2020 07:46:18 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb16209404898b/5edc38d7b9dbec2868ece81f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3909b9dbec2868ece820"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487eb"
+  },
+  "noKtp": "3602022803490663",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$B0eEpGjU9Ojep5tJMC2NXOTNlcekeYW/FiGWhqJZC7TXBAsikibYe",
+  "log": "Sun Jun 07 2020 07:47:07 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb16209404899f/5edc3909b9dbec2868ece820",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc392cb9dbec2868ece821"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487f4"
+  },
+  "noKtp": "3602020501770672",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$Inh3OKUYFokIFQcoCLgdvuZjxTtZgeD1SdS8zPuCahvMiabqi./fq",
+  "log": "Sun Jun 07 2020 07:47:44 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489db/5edc392cb9dbec2868ece821",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3972b9dbec2868ece822"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb162094048841"
+  },
+  "noKtp": "3673021909700749",
+  "noKk": "3602021602840001",
+  "password": "$2b$10$0RHN7wacdu1SV81B0ER2nOnMoMuwTAC74JcjxGKumvkdTSoAPPNwG",
+  "log": "Sun Jun 07 2020 07:48:52 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048975/5edc3972b9dbec2868ece822",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3ac9b9dbec2868ece824"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486fb"
+  },
+  "noKtp": "3604022010940423",
+  "noKk": "3604021203560006",
+  "password": "$2b$10$PUWr9q/Z1JRszWof3Y781.6sOeCSn7dVf9prtGv/UUKTUwQvmVhM.",
+  "log": "Sun Jun 07 2020 07:54:35 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489b0/5edc3ac9b9dbec2868ece824",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3aefb9dbec2868ece825"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486fc"
+  },
+  "noKtp": "3604011010820424",
+  "noKk": "3604021203560006",
+  "password": "$2b$10$rBz6704OCSjpJzuj4IAxneylmZNE9Hef2KXb1ClQQuKm8rRWyMeg2",
+  "log": "Sun Jun 07 2020 07:55:13 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404893f/5edc3aefb9dbec2868ece825",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3b17b9dbec2868ece826"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486fd"
+  },
+  "noKtp": "3672020410840425",
+  "noKk": "3604021203560006",
+  "password": "$2b$10$QDZXVJbPs9PqmV.sV37FOu02Zkguzu8AEbV5Yxytv9B0fOcF1YB3S",
+  "log": "Sun Jun 07 2020 07:55:53 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb16209404897b/5edc3b17b9dbec2868ece826",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3b41b9dbec2868ece827"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486fe"
+  },
+  "noKtp": "3674031501500426",
+  "noKk": "3604021203560006",
+  "password": "$2b$10$hquL94uKTHYEnU3Hm0uDhOSLY6gyBq.KOF6hMeMe/x7MmNCNfPhKG",
+  "log": "Sun Jun 07 2020 07:56:35 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489a8/5edc3b41b9dbec2868ece827",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3b60b9dbec2868ece828"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404870a"
+  },
+  "noKtp": "3604020706460438",
+  "noKk": "3604021203560006",
+  "password": "$2b$10$21S/oYebNCQHVmuWMKDy3eUUk4qGFC5P6AzlmBOM/hjgSnlPmwFDS",
+  "log": "Sun Jun 07 2020 07:57:06 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048998/5edc3b60b9dbec2868ece828",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3b88b9dbec2868ece829"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404870b"
+  },
+  "noKtp": "3673032004840439",
+  "noKk": "3604021203560006",
+  "password": "$2b$10$voFJbkh2Xo30pK4V/HmHhe89uSKEM7HqqLZXkD69cM20fhTDHxQAS",
+  "log": "Sun Jun 07 2020 07:57:46 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489a1/5edc3b88b9dbec2868ece829",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3bc3b9dbec2868ece82a"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404870c"
+  },
+  "noKtp": "3673021501500440",
+  "noKk": "3604021203560006",
+  "password": "$2b$10$ffqwb13vyx6TFXBFvJQ.pOZRgNd1FoyGsXk/pic8FHjcughBQn.W2",
+  "log": "Sun Jun 07 2020 07:58:48 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489a1/5edc3bc3b9dbec2868ece82a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3becb9dbec2868ece82b"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048739"
+  },
+  "noKtp": "3604022610410485",
+  "noKk": "3604021203560006",
+  "password": "$2b$10$BEl6Bfk4LvuWC9mIivZ/4Oj/h/v7hKDGzHPlXQCLPjGsIDQpqKqP.",
+  "log": "Sun Jun 07 2020 07:59:27 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404893f/5edc3becb9dbec2868ece82b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3ccdb9dbec2868ece82c"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb162094048859"
+  },
+  "noKtp": "3673021808680773",
+  "noKk": "3673022403930009",
+  "password": "$2b$10$ICC3IjQitU84iMmyGPSnuOjoU1R7731YhXOaHvCTWlxv5Bd6iir.y",
+  "log": "Sun Jun 07 2020 08:03:12 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048945/5edc3ccdb9dbec2868ece82c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3cfab9dbec2868ece82d"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb162094048868"
+  },
+  "noKtp": "3673022509590788",
+  "noKk": "3673022403930009",
+  "password": "$2b$10$nXY4rlzHQAqIMSQ2ZeXyjePLh.uxAo3eEU0UfHb4VowZe3OOXeEhW",
+  "log": "Sun Jun 07 2020 08:03:56 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048996/5edc3cfab9dbec2868ece82d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3d19b9dbec2868ece82e"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb162094048869"
+  },
+  "noKtp": "3601040611440789",
+  "noKk": "3673022403930009",
+  "password": "$2b$10$KK25jmsrdJkGI4MG1Sd0COD6v2bFYXg/vqcNKbWcG2goyhQSfYTf6",
+  "log": "Sun Jun 07 2020 08:04:29 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048967/5edc3d19b9dbec2868ece82e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3d3db9dbec2868ece82f"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb1620940488a1"
+  },
+  "noKtp": "3673022212590845",
+  "noKk": "3673022403930009",
+  "password": "$2b$10$vx6BnZBzXvXCIENJabiyYu/aXWHh7.9HqOsulSkEJwFzJ7dhi5b56",
+  "log": "Sun Jun 07 2020 08:05:03 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404893f/5edc3d3db9dbec2868ece82f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3d69b9dbec2868ece830"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb1620940488ad"
+  },
+  "noKtp": "3673022602950857",
+  "noKk": "3673022403930009",
+  "password": "$2b$10$jsIXBKoJxDRFGWyWgK8YROlMYY7jGBkqb24bdCeYhspPJ9uYS9caG",
+  "log": "Sun Jun 07 2020 08:05:47 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048945/5edc3d69b9dbec2868ece830",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3eceb9dbec2868ece831"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485e6"
+  },
+  "noKtp": "3601012411600146",
+  "noKk": "3601010306780003",
+  "password": "$2b$10$gr40kwneGeTl.pA2Lj7s6OA4HyNkn83wIQWERoZvYp0bOFRLS8HFe",
+  "log": "Sun Jun 07 2020 08:11:44 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048967/5edc3eceb9dbec2868ece831",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc3ef6b9dbec2868ece832"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485f2"
+  },
+  "noKtp": "3601012801970158",
+  "noKk": "3601010306780003",
+  "password": "$2b$10$zhfTS383Gjol5AfI1BBkB.CFtABisZQwSXTeBdWK/zu9oRSAbiFAy",
+  "log": "Sun Jun 07 2020 08:12:24 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404896d/5edc3ef6b9dbec2868ece832",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc405bb9dbec2868ece833"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048560"
+  },
+  "noKtp": "3674010902820012",
+  "noKk": "3674012004650001",
+  "password": "$2b$10$Wf8q/8eOpfX5JyO2rZJep.yZWEKb1zSJdSiVy4ijc9KOgVhCpWAia",
+  "log": "Sun Jun 07 2020 08:18:25 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489b4/5edc405bb9dbec2868ece833",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc4085b9dbec2868ece834"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048570"
+  },
+  "noKtp": "3674013101850028",
+  "noKk": "3674012004650001",
+  "password": "$2b$10$0ptE6tR.CEJzjEWwVaaKo.TThV1VEUsrPDloJnIREB/ORYvBpXqWe",
+  "log": "Sun Jun 07 2020 08:19:04 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048941/5edc4085b9dbec2868ece834",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc40a5b9dbec2868ece835"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404858c"
+  },
+  "noKtp": "3674012209920056",
+  "noKk": "3674012004650001",
+  "password": "$2b$10$LeQtlwjRtYbXE6MnbcH6suenKau8bHOcPvdB1if41NnH9gw5bH6xG",
+  "log": "Sun Jun 07 2020 08:19:36 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048947/5edc40a5b9dbec2868ece835",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc410bb9dbec2868ece836"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487db"
+  },
+  "noKtp": "3673042210720647",
+  "noKk": "3673043004820008",
+  "password": "$2b$10$vpamKGPcRZiCqq1g4nQR1eYWwohDUQgKoEbm/qwdz0uHGJ6LuaaRW",
+  "log": "Sun Jun 07 2020 08:21:18 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048975/5edc410bb9dbec2868ece836",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc4138b9dbec2868ece837"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487dc"
+  },
+  "noKtp": "3674031211490648",
+  "noKk": "3673043004820008",
+  "password": "$2b$10$ekZhgGRcRLZP74AJ05xtJOE3oxjG6us2eQeim7322yBCxMaDsGRmy",
+  "log": "Sun Jun 07 2020 08:22:04 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489e4/5edc4138b9dbec2868ece837",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc415bb9dbec2868ece838"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487dd"
+  },
+  "noKtp": "3602031202790649",
+  "noKk": "3673043004820008",
+  "password": "$2b$10$7xTL7l3f/PAWsh4aY2wGaODwZTukDylG/t5ioGDos4kLCStYa8Ilq",
+  "log": "Sun Jun 07 2020 08:22:37 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489dc/5edc415bb9dbec2868ece838",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc4191b9dbec2868ece839"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487de"
+  },
+  "noKtp": "3674021202920650",
+  "noKk": "3673043004820008",
+  "password": "$2b$10$XWZXrEYfuAsPH2vp8yS8B.XroLaXYX79v3svQxr99CvZbizlz/A06",
+  "log": "Sun Jun 07 2020 08:23:31 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489e4/5edc4191b9dbec2868ece839",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc41b4b9dbec2868ece83a"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb16209404880d"
+  },
+  "noKtp": "3673040810580697",
+  "noKk": "3673043004820008",
+  "password": "$2b$10$8cMcTXH0/5GhG7Wt9yY/gu2DnI7DvqXuLINN/bObmDn2oEYgWbPwO",
+  "log": "Sun Jun 07 2020 08:24:06 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048a02/5edc41b4b9dbec2868ece83a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc41d9b9dbec2868ece83b"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb162094048843"
+  },
+  "noKtp": "3673042409800751",
+  "noKk": "3673043004820008",
+  "password": "$2b$10$L1c7uwQHo6SNr.QQPwgAFeYHkP0gXQ7Vq3LXhuEC/oV6UmdLzyw1q",
+  "log": "Sun Jun 07 2020 08:24:43 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048963/5edc41d9b9dbec2868ece83b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc4230b9dbec2868ece83c"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048702"
+  },
+  "noKtp": "3674040709680430",
+  "noKk": "3674040611690003",
+  "password": "$2b$10$kGE1kfFmHR0FCXCMGG1wgOmsRy.9Cl.nA41DA30a8O3gwTNYXIDLa",
+  "log": "Sun Jun 07 2020 08:26:10 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489e4/5edc4230b9dbec2868ece83c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc425eb9dbec2868ece83d"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404871d"
+  },
+  "noKtp": "3674041708410457",
+  "noKk": "3674040611690003",
+  "password": "$2b$10$a9Rpy32nZ1NJBMbgcs6J5.LE599MiMox1CDxDRyNPAlhU7sf9w2Pi",
+  "log": "Sun Jun 07 2020 08:26:56 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048941/5edc425eb9dbec2868ece83d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc427bb9dbec2868ece83e"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048753"
+  },
+  "noKtp": "3674041204960511",
+  "noKk": "3674040611690003",
+  "password": "$2b$10$s3OTZyvgTnkydOeAcy5b0O/Ok9QAHqNvhuiyk/PT6F5C.YygyLyKC",
+  "log": "Sun Jun 07 2020 08:27:25 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048941/5edc427bb9dbec2868ece83e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc4299b9dbec2868ece83f"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048754"
+  },
+  "noKtp": "3673020604020512",
+  "noKk": "3674040611690003",
+  "password": "$2b$10$e/ShuL/5Pc9tVuidp4edsupSZdvr/4feZFH1Gw.dsWcEJ.cDUINze",
+  "log": "Sun Jun 07 2020 08:27:56 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048945/5edc4299b9dbec2868ece83f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc42bbb9dbec2868ece840"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404875f"
+  },
+  "noKtp": "3674042903000523",
+  "noKk": "3674040611690003",
+  "password": "$2b$10$nl1lzavFFl9Rkr28oaBMDOxpkxGK/QG3BcanCS.jMkR67WfHPHWqC",
+  "log": "Sun Jun 07 2020 08:28:30 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048971/5edc42bbb9dbec2868ece840",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc4307b9dbec2868ece841"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb162094048782"
+  },
+  "noKtp": "3674021109860558",
+  "noKk": "3674021503910004",
+  "password": "$2b$10$cLvqr3H71SrhkTYGHioLje2mnuFBSA3WKt2PZasRuppaU.YVtgL7C",
+  "log": "Sun Jun 07 2020 08:29:45 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048999/5edc4307b9dbec2868ece841",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc432ab9dbec2868ece842"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb16209404879e"
+  },
+  "noKtp": "3674022407470586",
+  "noKk": "3674021503910004",
+  "password": "$2b$10$9K4MPbTZ2RCAntp9qe4iWO2Rft.FtFAHveYmZMzEAvVQEifQPvmnO",
+  "log": "Sun Jun 07 2020 08:30:20 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048999/5edc432ab9dbec2868ece842",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc4349b9dbec2868ece843"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487b7"
+  },
+  "noKtp": "3674021912970611",
+  "noKk": "3674021503910004",
+  "password": "$2b$10$BSu9BMD0Qs3XVav8ULqudOCg9JqNAQnEygzPgi2/oqiY4LauE4Eu6",
+  "log": "Sun Jun 07 2020 08:30:51 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048989/5edc4349b9dbec2868ece843",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc4367b9dbec2868ece844"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487d0"
+  },
+  "noKtp": "3674020107500636",
+  "noKk": "3674021503910004",
+  "password": "$2b$10$8pHxk3hNqJ0tH15UfZQsOeWIVwtX74a8/RcIDEsxfOmeyPH.qY9I2",
+  "log": "Sun Jun 07 2020 08:31:22 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb16209404896b/5edc4367b9dbec2868ece844",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc43a9b9dbec2868ece845"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487a6"
+  },
+  "noKtp": "3672010904620594",
+  "noKk": "3672012911590007",
+  "password": "$2b$10$jZBJiredCoLssVu3kmckKunk9/jiNcsq1oQcoTJ1bcugDs86Bgg1m",
+  "log": "Sun Jun 07 2020 08:32:28 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048a04/5edc43a9b9dbec2868ece845",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc43ccb9dbec2868ece846"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487f2"
+  },
+  "noKtp": "3672012407910670",
+  "noKk": "3672012911590007",
+  "password": "$2b$10$nnOq5SPNUWZD806E3paxZOS2Nj9w13vhfmebaFn6uXW2xC44qObHm",
+  "log": "Sun Jun 07 2020 08:33:02 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb1620940489bc/5edc43ccb9dbec2868ece846",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc43f8b9dbec2868ece847"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb1620940487fb"
+  },
+  "noKtp": "3672012302880679",
+  "noKk": "3672012911590007",
+  "password": "$2b$10$GX8kzFRg05EVg3S16XH4Ye9gqwINvrAczIQNuss515kUz.41dkdSa",
+  "log": "Sun Jun 07 2020 08:33:56 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048969/5edc43f8b9dbec2868ece847",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc445bb9dbec2868ece848"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb1620940488cd"
+  },
+  "noKtp": "3674022008860889",
+  "noKk": "3674021503910008",
+  "password": "$2b$10$C2.WIYnbOlQfoaK1v9eekeHMTR/qt4HTY833tf6udbkS1mxL56V.u",
+  "log": "Sun Jun 07 2020 08:35:25 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb16209404899c/5edc445bb9dbec2868ece848",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc4478b9dbec2868ece849"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377737cb162094048920"
+  },
+  "noKtp": "3674020507640972",
+  "noKk": "3674021503910008",
+  "password": "$2b$10$R..n1XUfT6E/P3cVx1RgYe1/HSF51mzizo24XG0HTCHAAY2cuXuLK",
+  "log": "Sun Jun 07 2020 08:35:54 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048971/5edc4478b9dbec2868ece849",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc44eeb9dbec2868ece84a"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb16209404881f"
+  },
+  "noKtp": "3674032810650715",
+  "noKk": "3674030808020009",
+  "password": "$2b$10$5wAy.z5jMffof2g8rHYTl.Y3SgufIQyc7oT10Dl0JzB0B1O1yH3FG",
+  "log": "Sun Jun 07 2020 08:37:57 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048947/5edc44eeb9dbec2868ece84a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc451eb9dbec2868ece84b"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb162094048833"
+  },
+  "noKtp": "3674032709640735",
+  "noKk": "3674030808020009",
+  "password": "$2b$10$Gnc/el7bedhSNIABRaUhuetf2OWxyp9JrjeWhWbEqhCyZAt7ghMqK",
+  "log": "Sun Jun 07 2020 08:38:42 GMT+0700 (Waktu Indonesia Barat)/5edb37b037cb162094048947/5edc451eb9dbec2868ece84b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc454db9dbec2868ece84c"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb162094048838"
+  },
+  "noKtp": "3674030607490740",
+  "noKk": "3674030808020009",
+  "password": "$2b$10$G1XZPICW6E.aAVZcdoed0OCK8BOvVCX.MXMWgVaXpXBmTSHCuNK8W",
+  "log": "Sun Jun 07 2020 08:39:29 GMT+0700 (Waktu Indonesia Barat)/5edb37b137cb162094048a38/5edc454db9dbec2868ece84c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc4578b9dbec2868ece84d"
+  },
+  "role": 1,
+  "createdAt": {
+    "$date": "2020-06-06T14:07:24.135Z"
+  },
+  "ktp": {
+    "$oid": "5edb377637cb16209404884c"
+  },
+  "noKtp": "3674031901810760",
+  "noKk": "3674030808020009",
+  "password": "$2b$10$rfORCBiCYGPZNt3maeepBu2WRvaWZ1c0noEmCWp5BcpjivC6qzKP2",
+  "log": null,
+  "__v": 0
+}]

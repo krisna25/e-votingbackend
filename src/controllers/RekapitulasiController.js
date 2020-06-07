@@ -15,199 +15,206 @@ var a = 0;
 var calegRegionVote = [];
 module.exports = {
     async getbantenDPRRekapitulasi(req, res) {
-        const {
-            seats,
-            category
-        } = req.body;
-        const dataParpol = await Parpol.find({});
-        const dataCaleg = await Caleg.find({
-            category: category
-        });
-        const userLog = await User.find({
-            log: {
-                $ne : null
-            }
-        })
-        var totalVote = 0;
-        var resultVoteFinal = {};
-
-        if (dataCaleg.length == 0 || userLog.length == 0 || dataParpol.length == 0) {
-            res.sendStatus(404);
-        } else {
-            dataParpol.forEach(parpol => {
-                var countVote = 0;
-                var calegGetVote = [];
-                dataCaleg.forEach(caleg => {
-                    if (String(parpol._id) === String(caleg.idParpol)) {
-                        var PandeglangVote = 0
-                        var LebakVote = 0
-                        var KabSerangVote = 0
-                        var KabTangerangVote = 0
-                        var KotTangerangVote = 0
-                        var KotTangselVote = 0
-                        var KotSerangVote = 0
-                        var KotCilegonVote = 0
-                        for (let index = 0; index < userLog.length; index++) {
-                            var log = userLog[index].log;
-                            str = log.split('/');
-                            calegId = str[1];
-                            var ktp = userLog[index].noKtp;
-                            if (caleg._id == calegId) {
-                                if (category == "Banten1") {
-                                    if (String(ktp).substring(2, 4) === '01') {
-                                        PandeglangVote = PandeglangVote + 1
-                                    } else if (String(ktp).substring(2, 4) === '02') {
-                                        LebakVote = LebakVote + 1
-                                    }
-                                } else if (category == "Banten2") {
-                                    if (String(ktp).substring(2, 4) === '04') {
-                                        KabSerangVote = KabSerangVote + 1
-                                    } else if (String(ktp).substring(2, 4) === '72') {
-                                        KotCilegonVote = KotCilegonVote + 1
-                                    } else if (String(ktp).substring(2, 4) === '73') {
-                                        KotSerangVote = KotSerangVote + 1
-                                    }
-                                } else if (category == "Banten3") {
-                                    if (String(ktp).substring(2, 4) === '03') {
-                                        KabTangerangVote = KabTangerangVote + 1
-                                    } else if (String(ktp).substring(2, 4) === '71') {
-                                        KotTangerangVote = KotTangerangVote + 1
-                                    } else if (String(ktp).substring(2, 4) === '74') {
-                                        KotTangselVote = KotTangselVote + 1
-                                    }
-                                }
-                            }
-                        }
-                        if (category == "Banten1") {
-                            var vote = [];
-                            vote['Padeglang'] = PandeglangVote;
-                            vote['Lebak'] = LebakVote
-                           
-                            for (var key in vote) {
-                                if (vote.hasOwnProperty(key)) {
-                                    calegRegionVote.push({
-                                        'region': key,
-                                        'idcaleg': caleg._id,
-                                        'vote': vote[key]
-                                    })
-                                }
-                            }
-                        } else if (category == "Banten2") {
-                            var vote = [];
-                            vote['Kota Serang'] = KotSerangVote;
-                            vote['Kota Cilegon'] = KotCilegonVote;
-                            vote['Serang'] = KabSerangVote;
-                            for (var key in vote) {
-                                if (vote.hasOwnProperty(key)) {
-                                    calegRegionVote.push({
-                                        'region': key,
-                                        'idcaleg': caleg._id,
-                                        'vote': vote[key]
-                                    })
-                                }
-                            }
-                        } else if (category == "Banten3") {
-                            var vote = [];
-                            vote['Kabupaten Tangerang'] = KabTangerangVote;
-                            vote['Kota Tangerang'] = KotTangerangVote;
-                            vote['Tangerang Selatan'] = KotTangselVote;
-                            for (var key in vote) {
-                                if (vote.hasOwnProperty(key)) {
-                                    calegRegionVote.push({
-                                        'region': key,
-                                        'idcaleg': caleg._id,
-                                        'vote': vote[key]
-                                    })
-                                }
-                            }
-                        }
-                        var temp = []
-                        for (let index = 0; index < calegRegionVote.length; index++) {
-                            if (caleg._id == calegRegionVote[index].idcaleg) {
-                                temp.push({
-                                    'id':index,
-                                    'region': calegRegionVote[index].region,
-                                    'vote': calegRegionVote[index].vote,
-                                })
-                            }
-                        }
-                        calegGetVote.push({
-                            'id': caleg._id,
-                            'nama': caleg.name,
-                            'vote': caleg.vote,
-                            'img': caleg.img,
-                            'descVote': temp
-                        })
-                        //menghitung banyak suara parpol
-                        countVote = countVote + caleg.vote;
-                    }
-                });//akhir perulangan caleg
-                totalVote = totalVote + countVote;
-                resultVote.push({
-                    parpol: parpol.akronim,
-                    suara: countVote
-                })
-
-                Rekap.push({
-                    id : parpol._id,
-                    bendera:parpol.bendera,
-                    akronim: parpol.akronim,
-                    nama: parpol.name,
-                    vote: countVote,
-                    caleg: calegGetVote
-                });
+        try {
+            const {
+                seats,
+                category
+            } = req.body;
+            const dataParpol = await Parpol.find({});
+            const dataCaleg = await Caleg.find({
+                category: category
             });
-            // cek parliamentary threshold dengan batas ambang  4 % dapil
-            for (let index = 0; index < resultVote.length; index++) {
-                const element = resultVote[index];
-                if (Math.round((element.suara/totalVote)*100) >= 4 ) {
-                    resultVoteFinal[element.parpol] = element.suara;
-                }else{
-                    resultVoteFinal[element.parpol] = 0;
+            const userLog = await User.find({
+                log: {
+                    $ne : null
                 }
-            }
-
-            // konversi suara
-            sit = sainteLague(resultVoteFinal, seats);
-            for (var key in sit) {
-                if (sit.hasOwnProperty(key)) {
-                    RekapResult.push({
-                        id: Rekap[a].id,
-                        akronim: Rekap[a].akronim,
-                        bendera:Rekap[a].bendera,
-                        nama: Rekap[a].nama,
-                        vote: Rekap[a].vote,
-                        sits: sit[key],
-                        caleg: Rekap[a].caleg
+            })
+            var totalVote = 0;
+            var resultVoteFinal = {};
+    
+            if (dataCaleg.length == 0 || userLog.length == 0 || dataParpol.length == 0) {
+                res.sendStatus(404);
+            } else {
+                dataParpol.forEach(parpol => {
+                    var countVote = 0;
+                    var calegGetVote = [];
+                    dataCaleg.forEach(caleg => {
+                        if (String(parpol._id) === String(caleg.idParpol)) {
+                            var PandeglangVote = 0
+                            var LebakVote = 0
+                            var KabSerangVote = 0
+                            var KabTangerangVote = 0
+                            var KotTangerangVote = 0
+                            var KotTangselVote = 0
+                            var KotSerangVote = 0
+                            var KotCilegonVote = 0
+                            for (let index = 0; index < userLog.length; index++) {
+                                var log = userLog[index].log;
+                                str = log.split('/');
+                                calegId = str[1];
+                                var ktp = userLog[index].noKtp;
+                                if (caleg._id == calegId) {
+                                    if (category == "Banten1") {
+                                        if (String(ktp).substring(2, 4) === '01') {
+                                            PandeglangVote = PandeglangVote + 1
+                                        } else if (String(ktp).substring(2, 4) === '02') {
+                                            LebakVote = LebakVote + 1
+                                        }
+                                    } else if (category == "Banten2") {
+                                        if (String(ktp).substring(2, 4) === '04') {
+                                            KabSerangVote = KabSerangVote + 1
+                                        } else if (String(ktp).substring(2, 4) === '72') {
+                                            KotCilegonVote = KotCilegonVote + 1
+                                        } else if (String(ktp).substring(2, 4) === '73') {
+                                            KotSerangVote = KotSerangVote + 1
+                                        }
+                                    } else if (category == "Banten3") {
+                                        if (String(ktp).substring(2, 4) === '03') {
+                                            KabTangerangVote = KabTangerangVote + 1
+                                        } else if (String(ktp).substring(2, 4) === '71') {
+                                            KotTangerangVote = KotTangerangVote + 1
+                                        } else if (String(ktp).substring(2, 4) === '74') {
+                                            KotTangselVote = KotTangselVote + 1
+                                        }
+                                    }
+                                }
+                            }
+                            if (category == "Banten1") {
+                                var vote = [];
+                                vote['Padeglang'] = PandeglangVote;
+                                vote['Lebak'] = LebakVote
+                               
+                                for (var key in vote) {
+                                    if (vote.hasOwnProperty(key)) {
+                                        calegRegionVote.push({
+                                            'region': key,
+                                            'idcaleg': caleg._id,
+                                            'vote': vote[key]
+                                        })
+                                    }
+                                }
+                            } else if (category == "Banten2") {
+                                var vote = [];
+                                vote['Kota Serang'] = KotSerangVote;
+                                vote['Kota Cilegon'] = KotCilegonVote;
+                                vote['Serang'] = KabSerangVote;
+                                for (var key in vote) {
+                                    if (vote.hasOwnProperty(key)) {
+                                        calegRegionVote.push({
+                                            'region': key,
+                                            'idcaleg': caleg._id,
+                                            'vote': vote[key]
+                                        })
+                                    }
+                                }
+                            } else if (category == "Banten3") {
+                                var vote = [];
+                                vote['Kabupaten Tangerang'] = KabTangerangVote;
+                                vote['Kota Tangerang'] = KotTangerangVote;
+                                vote['Tangerang Selatan'] = KotTangselVote;
+                                for (var key in vote) {
+                                    if (vote.hasOwnProperty(key)) {
+                                        calegRegionVote.push({
+                                            'region': key,
+                                            'idcaleg': caleg._id,
+                                            'vote': vote[key]
+                                        })
+                                    }
+                                }
+                            }
+                            var temp = []
+                            for (let index = 0; index < calegRegionVote.length; index++) {
+                                if (caleg._id == calegRegionVote[index].idcaleg) {
+                                    temp.push({
+                                        'id':index,
+                                        'region': calegRegionVote[index].region,
+                                        'vote': calegRegionVote[index].vote,
+                                    })
+                                }
+                            }
+                            calegGetVote.push({
+                                'id': caleg._id,
+                                'nama': caleg.name,
+                                'vote': caleg.vote,
+                                'img': caleg.img,
+                                'descVote': temp
+                            })
+                            //menghitung banyak suara parpol
+                            countVote = countVote + caleg.vote;
+                            
+                        }
+                    });//akhir perulangan caleg
+                    totalVote = totalVote + countVote;
+                    resultVote.push({
+                        parpol: parpol.akronim,
+                        suara: countVote
+                    })
+    
+                    Rekap.push({
+                        id : parpol._id,
+                        bendera:parpol.bendera,
+                        akronim: parpol.akronim,
+                        nama: parpol.name,
+                        vote: countVote,
+                        caleg: calegGetVote
                     });
-                    a = a + 1
+                });
+                // cek parliamentary threshold dengan batas ambang  4 % dapil
+                for (let index = 0; index < resultVote.length; index++) {
+                    const element = resultVote[index];
+                    if (Math.round((element.suara/totalVote)*100) >= 4 ) {
+                        resultVoteFinal[element.parpol] = element.suara;
+                    }else{
+                        resultVoteFinal[element.parpol] = 0;
+                    }
                 }
-            }   
-            //memasukan data ke database
-            const cekcaleg = await Rekapitulasi.findOne({dapil:category})
-            if (cekcaleg) {
-                //melakukan update ketika data ada sebelumnya
-                const update = await Rekapitulasi.findOneAndUpdate({dapil:category},{$set: { "vote.0" :  RekapResult , 'updatedAt':moment()} })
-                if (!update) {
-                    console.log("gagal")
+                // konversi suara
+                sit = await  sainteLague(resultVoteFinal, Number(seats), {draw: true});
+                for (var key in sit) {
+                    if (sit.hasOwnProperty(key)) {
+                        RekapResult.push({
+                            id: Rekap[a].id,
+                            akronim: Rekap[a].akronim,
+                            bendera:Rekap[a].bendera,
+                            nama: Rekap[a].nama,
+                            vote: Rekap[a].vote,
+                            sits: sit[key],
+                            caleg: Rekap[a].caleg
+                        });
+                        a = a + 1
+                    }
+                }   
+                //memasukan data ke database
+                const cekcaleg = await Rekapitulasi.findOne({dapil:category})
+                if (cekcaleg) {
+                    //melakukan update ketika data ada sebelumnya
+                    const update = await Rekapitulasi.findOneAndUpdate({dapil:category},{$set: { "vote.0" :  RekapResult , 'updatedAt':moment()} })
+                    if (!update) {
+                        console.log("gagal")
+                    }
+                }else{
+                    var arr = []
+                    arr.push(RekapResult)
+                    const CalegRekapSchemaBantenNew= await new Rekapitulasi({
+                        dapil: category,
+                        vote: [RekapResult]
+                    }).save();
+                    if (!CalegRekapSchemaBantenNew) {
+                        console.log("gagal")
+                    }
                 }
-            }else{
-                var arr = []
-                arr.push(RekapResult)
-                const CalegRekapSchemaBantenNew= await new Rekapitulasi({
-                    dapil: category,
-                    vote: [RekapResult]
-                }).save();
-                if (!CalegRekapSchemaBantenNew) {
-                    console.log("gagal")
-                }
+                const resultFix = await Rekapitulasi.findOne({dapil:category})
+                res.json(resultFix);
+                a = 0;
+                RekapResult = [];
+                Rekap = [];
             }
-            const resultFix = await Rekapitulasi.findOne({dapil:category})
-            res.json(resultFix);
-            a = 0;
-            RekapResult = [];
-            Rekap = [];
+        } catch (error) {
+            console.log(error);
+            
         }
+        
+      
     },
 
     async getAllbantenDPRRekapitulasi(req,res,next){

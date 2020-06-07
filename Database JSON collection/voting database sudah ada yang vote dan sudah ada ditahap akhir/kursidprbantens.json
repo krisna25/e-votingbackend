@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5b706be7f0e7ba19a0333c90"
+  },
+  "dapil": "Banten1",
+  "kursi": 6
+},{
+  "_id": {
+    "$oid": "5b706c02f0e7ba19a0333c91"
+  },
+  "dapil": "Banten2",
+  "kursi": 6
+},{
+  "_id": {
+    "$oid": "5b706c11f0e7ba19a0333c92"
+  },
+  "dapil": "Banten3",
+  "kursi": 10
+}]

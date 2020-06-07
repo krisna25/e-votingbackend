@@ -1,0 +1,79 @@
+akun admin:
+ktp:adminvote
+kk:adminvote
+pass:admin
+
+masukan ktp tersebut untuk melakukan proses registrasi login dan melakukan vote
+
+Banten 1:
+KTP: Kab. Pandegelang
+no ktp: 3601012806440649
+no KK: 3601010410700007
+nama :Bagas Nugroho
+
+ktp keluarga: 3601010312000658
+nama : Viktor Salahudin
+
+==================================
+KTP: Kab. Lebak
+no ktp: 3602031812470451
+no KK: 3602031812470451
+nama : Puji Wahyuni
+
+ktp keluarga: 3602032702580481
+nama : Bambang Sinaga
+
+==================================
+==================================
+Banten 2:
+KTP: Kab. Serang
+no ktp: 3604011111970938
+no KK: 3604011905520009
+nama:Sabrina Hasanah
+
+ktp keluarga: 3604012809920945
+nama : Wadi Firmansyah S.Pd
+
+=================================
+KTP: Kota Cilegon
+no ktp: 3672012502630701
+no KK: 3672010702940009
+nama : Ikin Hakim
+
+ktp keluarga: 3672011105390744
+nama: Nadia Kuswandari
+=================================
+KTP: Kota Serang
+no ktp: 3673012405010757
+no KK: 3673011306700007
+nama : Laras Lailasari
+
+ktp keluarga: 3673011311960801
+nama: Hafshah Yuliarti
+=================================
+=================================
+Banten 3:
+KTP: Kota Tangerang Selatan
+no ktp: 3674041309650475
+no KK: 3674040407750006
+nama :Yani Prastuti
+
+ktp keluarga: 3674040105920520
+nama :Yance Mardhiyah
+================================
+KTP: Kota Tangerang
+no ktp: 3672011409960441
+no KK: 3672010702940005
+nama: Caturangga Tampubolon
+
+ktp keluarga: 3672012510000476
+nama : Darsirah Tampubolon S.Pd
+================================
+KTP: Kab. Tangerang
+no ktp: 3603013003980800
+no KK: 3603010104750006
+nama: Najwa Wastuti
+
+ktp keluarga: 3603010105610883
+nama: Natalia Prastuti
+

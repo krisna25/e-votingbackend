@@ -1,0 +1,376 @@
+[{
+  "_id": {
+    "$oid": "5edc55217354512ef468731e"
+  },
+  "hasil": [
+    {
+      "idkursi": 106,
+      "id": {
+        "$oid": "5edb37b037cb16209404893d"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/BrianPurkiss/128.jpg",
+      "nama": "Ana Purwanti",
+      "akronim": "PAN",
+      "bendera": "https://drive.google.com/uc?id=1UUFK2gA-lrRc9uRAymzpq4ygWVGcT_ig"
+    },
+    {
+      "idkursi": 105,
+      "id": {
+        "$oid": "5edb37b037cb162094048943"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/petebernardo/128.jpg",
+      "nama": "Paramita Farida",
+      "akronim": "BERKARYA",
+      "bendera": "https://drive.google.com/uc?id=1bfjgfefKX6f22wOmEtG4LdohZJ7jFVvL"
+    },
+    {
+      "idkursi": 104,
+      "id": {
+        "$oid": "5edb37b037cb162094048949"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/nelsonjoyce/128.jpg",
+      "nama": "Mulya Winarno S.I.Kom",
+      "akronim": "PDI PERJUANGAN",
+      "bendera": "https://drive.google.com/uc?id=1ubM9IGH2HeQL6mTcl-rimhzhPD9ycHRV"
+    },
+    {
+      "idkursi": 103,
+      "id": "5edb37b137cb1620940489db",
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/we_social/128.jpg",
+      "nama": "Unggul Saptono S.IP",
+      "akronim": "GOLKAR",
+      "bendera": "https://drive.google.com/uc?id=1B70sHULFnTn4QH-Xekk_5cPqlDWSrobS",
+      "keterangan": "S",
+      "data": [
+        {
+          "id": {
+            "$oid": "5edb37b037cb162094048961"
+          },
+          "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/ultragex/128.jpg",
+          "nama": "Legawa Firgantoro",
+          "akronim": "GOLKAR",
+          "bendera": "https://drive.google.com/uc?id=1B70sHULFnTn4QH-Xekk_5cPqlDWSrobS",
+          "vote": [
+            {
+              "id": 72,
+              "region": "Padeglang",
+              "vote": 0
+            },
+            {
+              "id": 73,
+              "region": "Lebak",
+              "vote": 1
+            }
+          ]
+        },
+        {
+          "id": {
+            "$oid": "5edb37b137cb1620940489db"
+          },
+          "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/we_social/128.jpg",
+          "nama": "Unggul Saptono S.IP",
+          "akronim": "GOLKAR",
+          "bendera": "https://drive.google.com/uc?id=1B70sHULFnTn4QH-Xekk_5cPqlDWSrobS",
+          "vote": [
+            {
+              "id": 80,
+              "region": "Padeglang",
+              "vote": 0
+            },
+            {
+              "id": 81,
+              "region": "Lebak",
+              "vote": 1
+            }
+          ]
+        },
+        {
+          "id": {
+            "$oid": "5edb37b137cb1620940489dc"
+          },
+          "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/dhilipsiva/128.jpg",
+          "nama": "Bambang Simanjuntak",
+          "akronim": "GOLKAR",
+          "bendera": "https://drive.google.com/uc?id=1B70sHULFnTn4QH-Xekk_5cPqlDWSrobS",
+          "vote": [
+            {
+              "id": 82,
+              "region": "Padeglang",
+              "vote": 0
+            },
+            {
+              "id": 83,
+              "region": "Lebak",
+              "vote": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idkursi": 102,
+      "id": {
+        "$oid": "5edb37b037cb162094048967"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/designervzm/128.jpg",
+      "nama": "Adhiarja Manullang",
+      "akronim": "HANURA",
+      "bendera": "https://drive.google.com/uc?id=1MT20bPJ-t4QUdtuVdG5H9W4r1xxKHflr"
+    },
+    {
+      "idkursi": 101,
+      "id": {
+        "$oid": "5edb37b037cb16209404896d"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/commadelimited/128.jpg",
+      "nama": "Ciaobella Hastuti",
+      "akronim": "PKS",
+      "bendera": "https://drive.google.com/uc?id=1CbrDfqSLRDKuqENKqgOPe-WYYpvCjIxb"
+    }
+  ],
+  "createdAt": {
+    "$date": "2020-06-07T02:45:48.242Z"
+  },
+  "dapil": "Banten1",
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2020-06-07T04:32:08.825Z"
+  }
+},{
+  "_id": {
+    "$oid": "5edc55217354512ef468731f"
+  },
+  "hasil": [
+    {
+      "idkursi": 206,
+      "id": {
+        "$oid": "5edb37b037cb16209404893f"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/kohette/128.jpg",
+      "nama": "Vivi Rahimah",
+      "akronim": "PAN",
+      "bendera": "https://drive.google.com/uc?id=1UUFK2gA-lrRc9uRAymzpq4ygWVGcT_ig"
+    },
+    {
+      "idkursi": 205,
+      "id": {
+        "$oid": "5edb37b037cb162094048945"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/arthurholcombe1/128.jpg",
+      "nama": "Hadi Sihotang",
+      "akronim": "BERKARYA",
+      "bendera": "https://drive.google.com/uc?id=1bfjgfefKX6f22wOmEtG4LdohZJ7jFVvL"
+    },
+    {
+      "idkursi": 204,
+      "id": {
+        "$oid": "5edb37b137cb1620940489a1"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/ateneupopular/128.jpg",
+      "nama": "Alambana Permadi",
+      "akronim": "BERKARYA",
+      "bendera": "https://drive.google.com/uc?id=1bfjgfefKX6f22wOmEtG4LdohZJ7jFVvL"
+    },
+    {
+      "idkursi": 203,
+      "id": "5edb37b037cb16209404894b",
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/scips/128.jpg",
+      "nama": "Darijan Maryadi",
+      "akronim": "PDI PERJUANGAN",
+      "bendera": "https://drive.google.com/uc?id=1ubM9IGH2HeQL6mTcl-rimhzhPD9ycHRV",
+      "keterangan": "S",
+      "data": [
+        {
+          "id": {
+            "$oid": "5edb37b037cb16209404894b"
+          },
+          "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/scips/128.jpg",
+          "nama": "Darijan Maryadi",
+          "akronim": "PDI PERJUANGAN",
+          "bendera": "https://drive.google.com/uc?id=1ubM9IGH2HeQL6mTcl-rimhzhPD9ycHRV",
+          "vote": [
+            {
+              "id": 204,
+              "region": "Kota Serang",
+              "vote": 0
+            },
+            {
+              "id": 205,
+              "region": "Kota Cilegon",
+              "vote": 1
+            },
+            {
+              "id": 206,
+              "region": "Serang",
+              "vote": 0
+            }
+          ]
+        },
+        {
+          "id": {
+            "$oid": "5edb37b137cb1620940489ad"
+          },
+          "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/weavermedia/128.jpg",
+          "nama": "Wadi Hakim",
+          "akronim": "PDI PERJUANGAN",
+          "bendera": "https://drive.google.com/uc?id=1ubM9IGH2HeQL6mTcl-rimhzhPD9ycHRV",
+          "vote": [
+            {
+              "id": 210,
+              "region": "Kota Serang",
+              "vote": 1
+            },
+            {
+              "id": 211,
+              "region": "Kota Cilegon",
+              "vote": 0
+            },
+            {
+              "id": 212,
+              "region": "Serang",
+              "vote": 0
+            }
+          ]
+        },
+        {
+          "id": {
+            "$oid": "5edb37b137cb1620940489b0"
+          },
+          "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/mattbilotti/128.jpg",
+          "nama": "Citra Mulyani",
+          "akronim": "PDI PERJUANGAN",
+          "bendera": "https://drive.google.com/uc?id=1ubM9IGH2HeQL6mTcl-rimhzhPD9ycHRV",
+          "vote": [
+            {
+              "id": 219,
+              "region": "Kota Serang",
+              "vote": 0
+            },
+            {
+              "id": 220,
+              "region": "Kota Cilegon",
+              "vote": 0
+            },
+            {
+              "id": 221,
+              "region": "Serang",
+              "vote": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idkursi": 202,
+      "id": {
+        "$oid": "5edb37b137cb1620940489ec"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/embrcecreations/128.jpg",
+      "nama": "Syahrini Susanti M.Ak",
+      "akronim": "HANURA",
+      "bendera": "https://drive.google.com/uc?id=1MT20bPJ-t4QUdtuVdG5H9W4r1xxKHflr"
+    },
+    {
+      "idkursi": 201,
+      "id": {
+        "$oid": "5edb37b137cb162094048975"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/mylesb/128.jpg",
+      "nama": "Uchita Winarsih",
+      "akronim": "PKB",
+      "bendera": "https://drive.google.com/uc?id=1IEMOA-6EwIOTOwwwx7Bb6xCwXL_GdasM"
+    }
+  ],
+  "createdAt": {
+    "$date": "2020-06-07T02:45:48.242Z"
+  },
+  "dapil": "Banten2",
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2020-06-07T04:32:08.840Z"
+  }
+},{
+  "_id": {
+    "$oid": "5edc55217354512ef4687320"
+  },
+  "hasil": [
+    {
+      "idkursi": 310,
+      "id": {
+        "$oid": "5edb37b037cb162094048941"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/timothycd/128.jpg",
+      "nama": "Kasiyah Hariyah M.Farm",
+      "akronim": "PAN",
+      "bendera": "https://drive.google.com/uc?id=1UUFK2gA-lrRc9uRAymzpq4ygWVGcT_ig"
+    },
+    {
+      "idkursi": 309,
+      "id": {
+        "$oid": "5edb37b037cb162094048947"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/j_drake_/128.jpg",
+      "nama": "Raditya Kuswoyo",
+      "akronim": "BERKARYA",
+      "bendera": "https://drive.google.com/uc?id=1bfjgfefKX6f22wOmEtG4LdohZJ7jFVvL"
+    },
+    {
+      "idkursi": 308,
+      "id": {
+        "$oid": "5edb37b037cb16209404894d"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/RussellBishop/128.jpg",
+      "nama": "Cemeti Ardianto",
+      "akronim": "PDI PERJUANGAN",
+      "bendera": "https://drive.google.com/uc?id=1ubM9IGH2HeQL6mTcl-rimhzhPD9ycHRV"
+    },
+    {
+      "idkursi": 307,
+      "id": {
+        "$oid": "5edb37b137cb1620940489e4"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/funwatercat/128.jpg",
+      "nama": "Cahya Pangestu",
+      "akronim": "GOLKAR",
+      "bendera": "https://drive.google.com/uc?id=1B70sHULFnTn4QH-Xekk_5cPqlDWSrobS"
+    },
+    {
+      "idkursi": 306,
+      "id": {
+        "$oid": "5edb37b037cb16209404896b"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/tweetubhai/128.jpg",
+      "nama": "Uda Gunarto",
+      "akronim": "HANURA",
+      "bendera": "https://drive.google.com/uc?id=1MT20bPJ-t4QUdtuVdG5H9W4r1xxKHflr"
+    },
+    {
+      "idkursi": 305,
+      "id": {
+        "$oid": "5edb37b137cb1620940489ee"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/sbtransparent/128.jpg",
+      "nama": "Cindy Hariyah M.M.",
+      "akronim": "HANURA",
+      "bendera": "https://drive.google.com/uc?id=1MT20bPJ-t4QUdtuVdG5H9W4r1xxKHflr"
+    },
+    {
+      "idkursi": 304,
+      "id": {
+        "$oid": "5edb37b037cb162094048971"
+      },
+      "foto": "https://s3.amazonaws.com/uifaces/faces/twitter/prrstn/128.jpg",
+      "nama": "Ayu Usada M.Ak",
+      "akronim": "PKS",
+      "bendera": "https://drive.google.com/uc?id=1CbrDfqSLRDKuqENKqgOPe-WYYpvCjIxb"
+    }
+  ],
+  "createdAt": {
+    "$date": "2020-06-07T02:45:48.242Z"
+  },
+  "dapil": "Banten3",
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2020-06-07T04:32:08.854Z"
+  }
+}]

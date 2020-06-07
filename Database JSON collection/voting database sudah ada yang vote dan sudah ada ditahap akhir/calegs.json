@@ -1,0 +1,3781 @@
+[{
+  "_id": {
+    "$oid": "5edb37b037cb16209404893d"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048556"
+  },
+  "name": "Ana Purwanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/BrianPurkiss/128.jpg",
+  "vote": 3,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404893e"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048559"
+  },
+  "name": "Bagya Winarno",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/petebernardo/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404893f"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb16209404855d"
+  },
+  "name": "Vivi Rahimah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kohette/128.jpg",
+  "vote": 6,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048940"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048560"
+  },
+  "name": "Usyi Haryanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/harry_sistalam/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048941"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048561"
+  },
+  "name": "Kasiyah Hariyah M.Farm",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/timothycd/128.jpg",
+  "vote": 6,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048942"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048562"
+  },
+  "name": "Wawan Nugroho",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tumski/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048943"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048566"
+  },
+  "name": "Paramita Farida",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/petebernardo/128.jpg",
+  "vote": 4,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048944"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048568"
+  },
+  "name": "Gaman Tarihoran",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/brandonmorreale/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048945"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb16209404856a"
+  },
+  "name": "Hadi Sihotang",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/arthurholcombe1/128.jpg",
+  "vote": 7,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048946"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb16209404856c"
+  },
+  "name": "Ana Wastuti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/_yardenoon/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048947"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb16209404856d"
+  },
+  "name": "Raditya Kuswoyo",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/j_drake_/128.jpg",
+  "vote": 3,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048948"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb16209404856f"
+  },
+  "name": "Galak Januar",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/shoaib253/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048949"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048570"
+  },
+  "name": "Mulya Winarno S.I.Kom",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nelsonjoyce/128.jpg",
+  "vote": 4,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404894a"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048571"
+  },
+  "name": "Sakura Puspita",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mizhgan/128.jpg",
+  "vote": 3,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404894b"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048572"
+  },
+  "name": "Darijan Maryadi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/scips/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404894c"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377237cb162094048574"
+  },
+  "name": "Erik Napitupulu",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/embrcecreations/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404894d"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048575"
+  },
+  "name": "Cemeti Ardianto",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/RussellBishop/128.jpg",
+  "vote": 3,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404894e"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048577"
+  },
+  "name": "Sabar Ardianto",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bluefx_/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404894f"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048579"
+  },
+  "name": "Salsabila Purnawati",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lhausermann/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048950"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404857b"
+  },
+  "name": "Gandi Tarihoran",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kapaluccio/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048951"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404857c"
+  },
+  "name": "Gilda Farida",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lawlbwoy/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048952"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404857d"
+  },
+  "name": "Victoria Pudjiastuti M.TI.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/wiljanslofstra/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048953"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404857e"
+  },
+  "name": "Ulva Puspasari",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/samgrover/128.jpg",
+  "vote": 1,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048954"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404857f"
+  },
+  "name": "Prayoga Firmansyah S.E.I",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/exentrich/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048955"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048581"
+  },
+  "name": "Mahesa Setiawan",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/luxe/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048956"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048582"
+  },
+  "name": "Malika Kusmawati",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/oscarowusu/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048957"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048585"
+  },
+  "name": "Endah Kuswandari",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/zforrester/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048958"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048587"
+  },
+  "name": "Kairav Halim",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/martip07/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048959"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048588"
+  },
+  "name": "Harjo Gunarto",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/wesleytrankin/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404895a"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048589"
+  },
+  "name": "Putri Susanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/Shriiiiimp/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404895b"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404858b"
+  },
+  "name": "Ulva Utami M.Ak",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/andysolomon/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404895c"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404858d"
+  },
+  "name": "Kurnia Tarihoran",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/woodydotmx/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404895d"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404858f"
+  },
+  "name": "Fitriani Pertiwi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/vc27/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404895e"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048592"
+  },
+  "name": "Edward Wibisono",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmartineau/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404895f"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048596"
+  },
+  "name": "Mutia Pertiwi S.I.Kom",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ManikRathee/128.jpg",
+  "vote": 1,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048960"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048597"
+  },
+  "name": "Bella Mardhiyah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/victorerixon/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048961"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048598"
+  },
+  "name": "Legawa Firgantoro",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ultragex/128.jpg",
+  "vote": 1,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048962"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404859b"
+  },
+  "name": "Tira Susanti M.Pd",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/BryanHorsey/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048963"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404859c"
+  },
+  "name": "Lidya Utami",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kikillo/128.jpg",
+  "vote": 2,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048964"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404859d"
+  },
+  "name": "Jaswadi Hutasoit",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/magugzbrand2d/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048965"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb16209404859f"
+  },
+  "name": "Prayogo Saputra",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/alexandermayes/128.jpg",
+  "vote": 1,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048966"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485a4"
+  },
+  "name": "Jasmin Hartati",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/blakesimkins/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048967"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485a6"
+  },
+  "name": "Adhiarja Manullang",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/designervzm/128.jpg",
+  "vote": 4,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048968"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485a9"
+  },
+  "name": "Oskar Pangestu",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mugukamil/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048969"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485ab"
+  },
+  "name": "Xanana Pangestu",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/stefanotirloni/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404896a"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485ac"
+  },
+  "name": "Faizah Nuraini",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/arindam_/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404896b"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485ae"
+  },
+  "name": "Uda Gunarto",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tweetubhai/128.jpg",
+  "vote": 3,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404896c"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485b0"
+  },
+  "name": "Yance Nuraini",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404896d"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485b2"
+  },
+  "name": "Ciaobella Hastuti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/commadelimited/128.jpg",
+  "vote": 3,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404896e"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485b6"
+  },
+  "name": "Gangsa Hidayat",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/akmur/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb16209404896f"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485b7"
+  },
+  "name": "Rahayu Aryani",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/codepoet_ru/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048970"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485b8"
+  },
+  "name": "Eli Rahayu",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ultragex/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048971"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485b9"
+  },
+  "name": "Ayu Usada M.Ak",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/prrstn/128.jpg",
+  "vote": 2,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048972"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485bb"
+  },
+  "name": "Maras Narpati S.Pt",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/andrewofficer/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048973"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485be"
+  },
+  "name": "Mustofa Habibi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/klefue/128.jpg",
+  "vote": 1,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b037cb162094048974"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485bf"
+  },
+  "name": "Raina Rahmawati",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/d33pthought/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048975"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485c1"
+  },
+  "name": "Uchita Winarsih",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mylesb/128.jpg",
+  "vote": 4,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048976"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485c2"
+  },
+  "name": "Reksa Hidayat S.Pt",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/xiel/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048977"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485c3"
+  },
+  "name": "Hilda Melani",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dactrtr/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048978"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485c7"
+  },
+  "name": "Lalita Aryani",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kianoshp/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048979"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485c9"
+  },
+  "name": "Hasna Nuraini",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lanceguyatt/128.jpg",
+  "vote": 1,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404897a"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485cb"
+  },
+  "name": "Gada Hutagalung",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404897b"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485cc"
+  },
+  "name": "Latika Oktaviani",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bennyjien/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404897c"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485ce"
+  },
+  "name": "Argono Najmudin",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/timothycd/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404897d"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485d0"
+  },
+  "name": "Kani Astuti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/flexrs/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404897e"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485d1"
+  },
+  "name": "Icha Hariyah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/91bilal/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404897f"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485d2"
+  },
+  "name": "Yuni Melani M.Farm",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/meelford/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048980"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485d4"
+  },
+  "name": "Gada Marpaung S.IP",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/conspirator/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048981"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485db"
+  },
+  "name": "Violet Utami",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bighanddesign/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048982"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485dc"
+  },
+  "name": "Jaga Saputra",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jwalter14/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048983"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485dd"
+  },
+  "name": "Lala Agustina",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/zvchkelly/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048984"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485de"
+  },
+  "name": "Kanda Mahendra",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/amandabuzard/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048985"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485e1"
+  },
+  "name": "Kala Sinaga",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/S0ufi4n3/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048986"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485e2"
+  },
+  "name": "Paramita Safitri",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/chaensel/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048987"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485e3"
+  },
+  "name": "Oliva Novitasari",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/prheemo/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048988"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485e7"
+  },
+  "name": "Putri Safitri M.Pd",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/michaelcomiskey/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048989"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485e8"
+  },
+  "name": "Vera Wijayanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/raquelwilson/128.jpg",
+  "vote": 1,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404898a"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485e9"
+  },
+  "name": "Farah Sudiati S.Ked",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kohette/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404898b"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485ec"
+  },
+  "name": "Bala Firgantoro",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lingeswaran/128.jpg",
+  "vote": 1,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404898c"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485ed"
+  },
+  "name": "Jabal Prakasa",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mattsapii/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404898d"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485f2"
+  },
+  "name": "Paulin Mandasari",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mkginfo/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404898e"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485f5"
+  },
+  "name": "Winda Maryati",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/reetajayendra/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404898f"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485f6"
+  },
+  "name": "Safina Farida",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/strikewan/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048990"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb1620940485f8"
+  },
+  "name": "Bella Riyanti M.Kom.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/juaumlol/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048991"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048601"
+  },
+  "name": "Omar Prakasa S.Gz",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/the_purplebunny/128.jpg",
+  "vote": 1,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048992"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048606"
+  },
+  "name": "Langgeng Manullang",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/colirpixoil/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048993"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048607"
+  },
+  "name": "Ayu Susanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/roybarberuk/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048994"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377337cb162094048608"
+  },
+  "name": "Cakrabirawa Lazuardi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dotgridline/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048995"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404860c"
+  },
+  "name": "Saiful Siregar",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/carbontwelve/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048996"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404860e"
+  },
+  "name": "Rahmi Pudjiastuti M.M.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/djsherman/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048997"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048610"
+  },
+  "name": "Halima Handayani",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/hellofeverrrr/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048998"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048619"
+  },
+  "name": "Darmanto Setiawan M.Kom.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/increase/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048999"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404861a"
+  },
+  "name": "Puti Anggraini",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/horaciobella/128.jpg",
+  "vote": 2,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404899a"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404861b"
+  },
+  "name": "Titi Puspasari S.Sos",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/madysondesigns/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404899b"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404861c"
+  },
+  "name": "Rahmi Hariyah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lebronjennan/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404899c"
+  },
+  "idParpol": {
+    "$oid": "5b29bff823743f2ec88608a3"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048620"
+  },
+  "name": "Karja Mahendra",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nutzumi/128.jpg",
+  "vote": 2,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404899d"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048624"
+  },
+  "name": "Salsabila Purnawati",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/HenryHoffman/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404899e"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048626"
+  },
+  "name": "Cinthia Winarsih",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/madebybrenton/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb16209404899f"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048627"
+  },
+  "name": "Adhiarja Wibisono",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/adammarsbar/128.jpg",
+  "vote": 1,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489a0"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048629"
+  },
+  "name": "Surya Damanik",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mbilalsiddique1/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489a1"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404862a"
+  },
+  "name": "Alambana Permadi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ateneupopular/128.jpg",
+  "vote": 2,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489a2"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404862c"
+  },
+  "name": "Silvia Yulianti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/yehudab/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489a3"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404862d"
+  },
+  "name": "Gada Mangunsong",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ateneupopular/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489a4"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404862e"
+  },
+  "name": "Cengkir Putra M.Ak",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/GavicoInd/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489a5"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048633"
+  },
+  "name": "Ellis Wijayanti M.M.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/imammuht/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489a6"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048634"
+  },
+  "name": "Arta Mangunsong S.IP",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ssiskind/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489a7"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048635"
+  },
+  "name": "Putri Wulandari",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/pechkinator/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489a8"
+  },
+  "idParpol": {
+    "$oid": "5b29c06a23743f2ec88608a4"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048637"
+  },
+  "name": "Hani Hariyah M.Kom.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/rangafangs/128.jpg",
+  "vote": 1,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489a9"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048638"
+  },
+  "name": "Capa Sihotang",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/anoff/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489aa"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048639"
+  },
+  "name": "Fitriani Susanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dc_user/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ab"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404863a"
+  },
+  "name": "Kasiyah Padmasari",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/joeymurdah/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ac"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404863c"
+  },
+  "name": "Sabrina Winarsih M.Farm",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dutchnadia/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ad"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048645"
+  },
+  "name": "Wadi Hakim",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/weavermedia/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ae"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048647"
+  },
+  "name": "Farhunnisa Agustina",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/areus/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489af"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404864a"
+  },
+  "name": "Hani Laksita M.Ak",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/rodnylobos/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489b0"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404864c"
+  },
+  "name": "Citra Mulyani",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mattbilotti/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489b1"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048650"
+  },
+  "name": "Novi Wahyuni",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tereshenkov/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489b2"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048651"
+  },
+  "name": "Raisa Suartini M.M.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mastermindesign/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489b3"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048654"
+  },
+  "name": "Luluh Iswahyudi S.Pt",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/cocolero/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489b4"
+  },
+  "idParpol": {
+    "$oid": "5b29c08323743f2ec88608a5"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048655"
+  },
+  "name": "Bahuwarna Wibowo",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/allfordesign/128.jpg",
+  "vote": 1,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489b5"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048656"
+  },
+  "name": "Gangsa Utama",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/logorado/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489b6"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048658"
+  },
+  "name": "Cahyo Saptono",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/billyroshan/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489b7"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404865d"
+  },
+  "name": "Ina Zulaika S.Pd",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489b8"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404865e"
+  },
+  "name": "Naradi Marpaung",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/koridhandy/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489b9"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404865f"
+  },
+  "name": "Garan Haryanto",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/cadikkara/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ba"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048660"
+  },
+  "name": "Samsul Nainggolan M.Ak",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bu7921/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489bb"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048661"
+  },
+  "name": "Dartono Tamba",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jghyllebert/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489bc"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048662"
+  },
+  "name": "Diah Suartini S.E.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/aka_james/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489bd"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048664"
+  },
+  "name": "Akarsana Nainggolan",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/h1brd/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489be"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048666"
+  },
+  "name": "Jamal Situmorang",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/malgordon/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489bf"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048669"
+  },
+  "name": "Lintang Uyainah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mutu_krish/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489c0"
+  },
+  "idParpol": {
+    "$oid": "5b29c09223743f2ec88608a6"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404866b"
+  },
+  "name": "Martani Hutasoit S.I.Kom",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/edgarchris99/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489c1"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404866d"
+  },
+  "name": "Atma Santoso",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jqiuss/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489c2"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404866f"
+  },
+  "name": "Ghaliyati Agustina",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kikillo/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489c3"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048674"
+  },
+  "name": "Nurul Farida",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/johndezember/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489c4"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048675"
+  },
+  "name": "Gawati Anggraini",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nateschulte/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489c5"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048676"
+  },
+  "name": "Febi Mardhiyah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dev_essentials/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489c6"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048677"
+  },
+  "name": "Kardi Nashiruddin S.Gz",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jeremiespoken/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489c7"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048678"
+  },
+  "name": "Zulfa Suartini",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ganserene/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489c8"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404867a"
+  },
+  "name": "Rini Pratiwi M.Ak",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/yecidsm/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489c9"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404867c"
+  },
+  "name": "Zulfa Puspita",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/_kkga/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ca"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048680"
+  },
+  "name": "Septi Aryani",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/zvchkelly/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489cb"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048682"
+  },
+  "name": "Asmuni Tamba",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/sergeyalmone/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489cc"
+  },
+  "idParpol": {
+    "$oid": "5b29c0a423743f2ec88608a7"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048683"
+  },
+  "name": "Talia Mandasari",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nitinhayaran/128.jpg",
+  "vote": 1,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489cd"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048685"
+  },
+  "name": "Citra Wastuti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jpscribbles/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ce"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048686"
+  },
+  "name": "Omar Natsir S.I.Kom",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/prrstn/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489cf"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048688"
+  },
+  "name": "Galih Sitorus",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lanceguyatt/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489d0"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048689"
+  },
+  "name": "Maryanto Sihotang",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mahdif/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489d1"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404868a"
+  },
+  "name": "Ana Pudjiastuti S.Kom",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/thibaut_re/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489d2"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404868e"
+  },
+  "name": "Vanesa Puspasari",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mhaligowski/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489d3"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048692"
+  },
+  "name": "Cinthia Haryanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/madysondesigns/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489d4"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048696"
+  },
+  "name": "Zaenab Rahmawati S.Gz",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/evandrix/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489d5"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048697"
+  },
+  "name": "Zulaikha Nuraini",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/baumannzone/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489d6"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048698"
+  },
+  "name": "Vinsen Sirait",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tweetubhai/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489d7"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb162094048699"
+  },
+  "name": "Jessica Agustina",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/adhiardana/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489d8"
+  },
+  "idParpol": {
+    "$oid": "5b29c0b323743f2ec88608a8"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404869a"
+  },
+  "name": "Ajiono Waskita",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ultragex/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489d9"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404869b"
+  },
+  "name": "Raden Tamba",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/scott_riley/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489da"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404869d"
+  },
+  "name": "Elvina Usada",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/switmer777/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489db"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404869e"
+  },
+  "name": "Unggul Saptono S.IP",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/we_social/128.jpg",
+  "vote": 1,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489dc"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb16209404869f"
+  },
+  "name": "Bambang Simanjuntak",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dhilipsiva/128.jpg",
+  "vote": 1,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489dd"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486a0"
+  },
+  "name": "Nadia Rahayu",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bluesix/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489de"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486a2"
+  },
+  "name": "Kardi Marbun",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/agustincruiz/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489df"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486a3"
+  },
+  "name": "Putri Hassanah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/besbujupi/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489e0"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486a5"
+  },
+  "name": "Putri Nasyidah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/saarabpreet/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489e1"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486a6"
+  },
+  "name": "Nugraha Marbun",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/madshensel/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489e2"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486a7"
+  },
+  "name": "Kawaya Hutasoit",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/baumann_alex/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489e3"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486a9"
+  },
+  "name": "Kemal Siregar M.Pd",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/leemunroe/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489e4"
+  },
+  "idParpol": {
+    "$oid": "5b29c0c223743f2ec88608a9"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486ad"
+  },
+  "name": "Cahya Pangestu",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/funwatercat/128.jpg",
+  "vote": 3,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489e5"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486ae"
+  },
+  "name": "Jelita Suryatmi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/rdsaunders/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489e6"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486b1"
+  },
+  "name": "Michelle Uyainah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/flexrs/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489e7"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377437cb1620940486b2"
+  },
+  "name": "Tari Laksmiwati",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/vladyn/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489e8"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486b4"
+  },
+  "name": "Kawaca Tampubolon",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/caspergrl/128.jpg",
+  "vote": 1,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489e9"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486b5"
+  },
+  "name": "Dalimin Nainggolan M.Kom.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/davidsasda/128.jpg",
+  "vote": 2,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ea"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486b6"
+  },
+  "name": "Violet Rahimah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jehnglynn/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489eb"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486ba"
+  },
+  "name": "Tomi Prakasa",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/elliotlewis/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ec"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486bc"
+  },
+  "name": "Syahrini Susanti M.Ak",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/embrcecreations/128.jpg",
+  "vote": 3,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ed"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486be"
+  },
+  "name": "Usman Wasita",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/karlkanall/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ee"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486bf"
+  },
+  "name": "Cindy Hariyah M.M.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/sbtransparent/128.jpg",
+  "vote": 1,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ef"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486c3"
+  },
+  "name": "Cahyo Sihotang",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/vovkasolovev/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489f0"
+  },
+  "idParpol": {
+    "$oid": "5b29c0cf23743f2ec88608aa"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486c5"
+  },
+  "name": "Rini Hariyah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/spbroma/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489f1"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486c6"
+  },
+  "name": "Vicky Yuniar",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/soffes/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489f2"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486c8"
+  },
+  "name": "Harsana Iswahyudi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/wake_gs/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489f3"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486c9"
+  },
+  "name": "Wasis Habibi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tom_even/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489f4"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486cb"
+  },
+  "name": "Limar Anggriawan",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/judzhin_miles/128.jpg",
+  "vote": 1,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489f5"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486cc"
+  },
+  "name": "Ganda Marbun",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/faisalabid/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489f6"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486cd"
+  },
+  "name": "Kani Winarsih",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/baumannzone/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489f7"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486cf"
+  },
+  "name": "Ghaliyati Andriani S.Ked",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/vickyshits/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489f8"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486d2"
+  },
+  "name": "Titi Handayani",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/michaelmartinho/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489f9"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486d3"
+  },
+  "name": "Gara Saragih",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/boxmodel/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489fa"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486da"
+  },
+  "name": "Adinata Hardiansyah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mslarkina/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489fb"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486db"
+  },
+  "name": "Gamanto Hakim",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tjisousa/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489fc"
+  },
+  "idParpol": {
+    "$oid": "5b29c0db23743f2ec88608ab"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486df"
+  },
+  "name": "Syahrini Purwanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kennyadr/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489fd"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486e0"
+  },
+  "name": "Xanana Manullang",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/findingjenny/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489fe"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486e1"
+  },
+  "name": "Wadi Nugroho",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/baliomega/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb1620940489ff"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486e2"
+  },
+  "name": "Ayu Permata",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/imcoding/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a00"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486e4"
+  },
+  "name": "Intan Usamah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/martinansty/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a01"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486e6"
+  },
+  "name": "Harsana Putra M.Kom.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/anatolinicolae/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a02"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486ea"
+  },
+  "name": "Cornelia Wijayanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dreizle/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a03"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486eb"
+  },
+  "name": "Cawuk Damanik",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/andrewabogado/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a04"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486ec"
+  },
+  "name": "Puti Wastuti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/g3d/128.jpg",
+  "vote": 1,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a05"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486ee"
+  },
+  "name": "Galih Rajasa",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/scottiedude/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a06"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486f0"
+  },
+  "name": "Garan Ardianto S.Pt",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/johnsmithagency/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a07"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486f1"
+  },
+  "name": "Cornelia Aryani",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/thaodang17/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a08"
+  },
+  "idParpol": {
+    "$oid": "5b29c0e823743f2ec88608ac"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486f2"
+  },
+  "name": "Karimah Uyainah S.IP",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/plbabin/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a09"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486f6"
+  },
+  "name": "Arta Irawan",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/sachingawas/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a0a"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486f8"
+  },
+  "name": "Olivia Usamah M.Farm",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/webtanya/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a0b"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486fa"
+  },
+  "name": "Nurul Andriani M.TI.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/frankiefreesbie/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a0c"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486fd"
+  },
+  "name": "Azalea Widiastuti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kudretkeskin/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a0d"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb1620940486fe"
+  },
+  "name": "Elvina Hasanah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/klimmka/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a0e"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048700"
+  },
+  "name": "Ayu Mardhiyah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/yecidsm/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a0f"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048704"
+  },
+  "name": "Drajat Sinaga",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/meln1ks/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a10"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048705"
+  },
+  "name": "Lembah Siregar",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/karsh/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a11"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048706"
+  },
+  "name": "Kayun Sirait",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/iamgarth/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a12"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048707"
+  },
+  "name": "Umar Rajasa",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/charliegann/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a13"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048708"
+  },
+  "name": "Yunita Pertiwi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/n3dmax/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a14"
+  },
+  "idParpol": {
+    "$oid": "5b29c0f523743f2ec88608ad"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404870b"
+  },
+  "name": "Uli Hariyah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kudretkeskin/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a15"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404870e"
+  },
+  "name": "Lalita Widiastuti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jacobbennett/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a16"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404870f"
+  },
+  "name": "Ratna Zulaika",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/danvierich/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a17"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048710"
+  },
+  "name": "Gabriella Haryanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/michaelcomiskey/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a18"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048711"
+  },
+  "name": "Shakila Pudjiastuti S.E.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a19"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048713"
+  },
+  "name": "Tedi Maulana",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bboy1895/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a1a"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048714"
+  },
+  "name": "Paramita Agustina",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/stefanozoffoli/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a1b"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048716"
+  },
+  "name": "Ajeng Suartini",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/spedwig/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a1c"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048717"
+  },
+  "name": "Jaiman Tampubolon S.Pd",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/snowwrite/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a1d"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048719"
+  },
+  "name": "Restu Hartati",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/andysolomon/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a1e"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404871c"
+  },
+  "name": "Rini Mulyani",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/linkibol/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a1f"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404871d"
+  },
+  "name": "Ratna Pertiwi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kaspernordkvist/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a20"
+  },
+  "idParpol": {
+    "$oid": "5b29c10423743f2ec88608ae"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048721"
+  },
+  "name": "Timbul Mustofa",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mangosango/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a21"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048722"
+  },
+  "name": "Jaya Suwarno S.Gz",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/longlivemyword/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a22"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048723"
+  },
+  "name": "Jabal Sirait",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/katiemdaly/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a23"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048725"
+  },
+  "name": "Winda Halimah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a24"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048726"
+  },
+  "name": "Kartika Nasyidah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ganserene/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a25"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048728"
+  },
+  "name": "Soleh Tampubolon",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ccinojasso1/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a26"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048729"
+  },
+  "name": "Yuni Wastuti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/vlajki/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a27"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404872c"
+  },
+  "name": "Umi Mayasari M.Ak",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tweetubhai/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a28"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404872d"
+  },
+  "name": "Anita Riyanti",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/falvarad/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a29"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404872f"
+  },
+  "name": "Prayoga Maryadi",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dorphern/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a2a"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048730"
+  },
+  "name": "Yoga Nababan S.Gz",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/thomasgeisen/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a2b"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048732"
+  },
+  "name": "Dalima Yolanda",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nilshoenson/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a2c"
+  },
+  "idParpol": {
+    "$oid": "5b29c10e23743f2ec88608af"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048733"
+  },
+  "name": "Jumari Hakim",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/janpalounek/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a2d"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048734"
+  },
+  "name": "Ibun Dabukke",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/_williamguerra/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a2e"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048735"
+  },
+  "name": "Syahrini Mardhiyah",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/scottkclark/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a2f"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048736"
+  },
+  "name": "Cawuk Pradipta",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/simobenso/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a30"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048737"
+  },
+  "name": "Cahyadi Simanjuntak S.H.",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/salimianoff/128.jpg",
+  "vote": 0,
+  "category": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a31"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048738"
+  },
+  "name": "Warsita Mangunsong",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/teddyzetterlund/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a32"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404873c"
+  },
+  "name": "Timbul Mahendra",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kolsvein/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a33"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404873e"
+  },
+  "name": "Catur Prasasta M.Pd",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/wegotvices/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a34"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb16209404873f"
+  },
+  "name": "Bakidin Januar",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/alxndrustinov/128.jpg",
+  "vote": 0,
+  "category": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a35"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048745"
+  },
+  "name": "Cahyono Marpaung",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/thatonetommy/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a36"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048746"
+  },
+  "name": "Cinthia Namaga",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/curiousonaut/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a37"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048747"
+  },
+  "name": "Fitria Utami",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/oscarowusu/128.jpg",
+  "vote": 0,
+  "category": "Banten3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edb37b137cb162094048a38"
+  },
+  "idParpol": {
+    "$oid": "5b29c11923743f2ec88608b0"
+  },
+  "ktp": {
+    "$oid": "5edb377537cb162094048748"
+  },
+  "name": "Chelsea Mandasari",
+  "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mattdetails/128.jpg",
+  "vote": 1,
+  "category": "Banten3",
+  "__v": 0
+}]

@@ -4,7 +4,8 @@ const Schema = mongoose.Schema;
 const VoteStatusSchema = new Schema({
     nama: {
         type: String,
-        required: true
+        required: true,
+        index: true
     },
     status: {
         type: Boolean,
@@ -16,7 +17,7 @@ const VoteStatusSchema = new Schema({
     timeEnd: {
         type: Date
     }
-});
+},{ autoCreate: true});
 
 const VoteStatus = mongoose.model('votestatus',VoteStatusSchema)
 module.exports = VoteStatus;

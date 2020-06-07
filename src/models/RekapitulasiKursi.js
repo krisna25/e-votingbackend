@@ -5,7 +5,8 @@ const RekapKursiSchema = new Schema({
         type: Schema.Types.ObjectId,
     },dapil: {
         type: String,
-        required: true
+        required: true,
+        index: true
     },hasil:{
         type:Array,
         required:true
@@ -17,7 +18,7 @@ const RekapKursiSchema = new Schema({
         type: Date,
         default: Date.now()
     }
-});
+},{ autoCreate: true });
 const RekapKursi = mongoose.model('rekapkursi', RekapKursiSchema);
 
 module.exports = RekapKursi;

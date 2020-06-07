@@ -1,0 +1,6424 @@
+[{
+  "_id": {
+    "$oid": "5edc6dc8095c2b15e823e7f7"
+  },
+  "vote": [
+    [
+      {
+        "id": {
+          "$oid": "5b29bff823743f2ec88608a3"
+        },
+        "akronim": "PAN",
+        "bendera": "https://drive.google.com/uc?id=1UUFK2gA-lrRc9uRAymzpq4ygWVGcT_ig",
+        "nama": "PARTAI AMANAT NASIONAL",
+        "vote": 4,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404893d"
+            },
+            "nama": "Ana Purwanti",
+            "vote": 3,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/BrianPurkiss/128.jpg",
+            "descVote": [
+              {
+                "id": 0,
+                "region": "Padeglang",
+                "vote": 3
+              },
+              {
+                "id": 1,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404893e"
+            },
+            "nama": "Bagya Winarno",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/petebernardo/128.jpg",
+            "descVote": [
+              {
+                "id": 2,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 3,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048991"
+            },
+            "nama": "Omar Prakasa S.Gz",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/the_purplebunny/128.jpg",
+            "descVote": [
+              {
+                "id": 4,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 5,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048992"
+            },
+            "nama": "Langgeng Manullang",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/colirpixoil/128.jpg",
+            "descVote": [
+              {
+                "id": 6,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 7,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048993"
+            },
+            "nama": "Ayu Susanti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/roybarberuk/128.jpg",
+            "descVote": [
+              {
+                "id": 8,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 9,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048994"
+            },
+            "nama": "Cakrabirawa Lazuardi",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dotgridline/128.jpg",
+            "descVote": [
+              {
+                "id": 10,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 11,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c06a23743f2ec88608a4"
+        },
+        "akronim": "BERKARYA",
+        "bendera": "https://drive.google.com/uc?id=1bfjgfefKX6f22wOmEtG4LdohZJ7jFVvL",
+        "nama": "PARTAI BERKARYA",
+        "vote": 5,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048943"
+            },
+            "nama": "Paramita Farida",
+            "vote": 4,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/petebernardo/128.jpg",
+            "descVote": [
+              {
+                "id": 12,
+                "region": "Padeglang",
+                "vote": 3
+              },
+              {
+                "id": 13,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048944"
+            },
+            "nama": "Gaman Tarihoran",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/brandonmorreale/128.jpg",
+            "descVote": [
+              {
+                "id": 14,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 15,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404899d"
+            },
+            "nama": "Salsabila Purnawati",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/HenryHoffman/128.jpg",
+            "descVote": [
+              {
+                "id": 16,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 17,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404899e"
+            },
+            "nama": "Cinthia Winarsih",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/madebybrenton/128.jpg",
+            "descVote": [
+              {
+                "id": 18,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 19,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404899f"
+            },
+            "nama": "Adhiarja Wibisono",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/adammarsbar/128.jpg",
+            "descVote": [
+              {
+                "id": 20,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 21,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489a0"
+            },
+            "nama": "Surya Damanik",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mbilalsiddique1/128.jpg",
+            "descVote": [
+              {
+                "id": 22,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 23,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c08323743f2ec88608a5"
+        },
+        "akronim": "PDI PERJUANGAN",
+        "bendera": "https://drive.google.com/uc?id=1ubM9IGH2HeQL6mTcl-rimhzhPD9ycHRV",
+        "nama": "PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "vote": 7,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048949"
+            },
+            "nama": "Mulya Winarno S.I.Kom",
+            "vote": 4,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nelsonjoyce/128.jpg",
+            "descVote": [
+              {
+                "id": 24,
+                "region": "Padeglang",
+                "vote": 2
+              },
+              {
+                "id": 25,
+                "region": "Lebak",
+                "vote": 2
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404894a"
+            },
+            "nama": "Sakura Puspita",
+            "vote": 3,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mizhgan/128.jpg",
+            "descVote": [
+              {
+                "id": 26,
+                "region": "Padeglang",
+                "vote": 1
+              },
+              {
+                "id": 27,
+                "region": "Lebak",
+                "vote": 2
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489a9"
+            },
+            "nama": "Capa Sihotang",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/anoff/128.jpg",
+            "descVote": [
+              {
+                "id": 28,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 29,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489aa"
+            },
+            "nama": "Fitriani Susanti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dc_user/128.jpg",
+            "descVote": [
+              {
+                "id": 30,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 31,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ab"
+            },
+            "nama": "Kasiyah Padmasari",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/joeymurdah/128.jpg",
+            "descVote": [
+              {
+                "id": 32,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 33,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ac"
+            },
+            "nama": "Sabrina Winarsih M.Farm",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dutchnadia/128.jpg",
+            "descVote": [
+              {
+                "id": 34,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 35,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c09223743f2ec88608a6"
+        },
+        "akronim": "Partai Demokrat",
+        "bendera": "https://drive.google.com/uc?id=1OYj3_7mCjmiCNr3SjmhSq-PdF1b3eyGw",
+        "nama": "PARTAI DEMOKRAT",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404894f"
+            },
+            "nama": "Salsabila Purnawati",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lhausermann/128.jpg",
+            "descVote": [
+              {
+                "id": 36,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 37,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048950"
+            },
+            "nama": "Gandi Tarihoran",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kapaluccio/128.jpg",
+            "descVote": [
+              {
+                "id": 38,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 39,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489b5"
+            },
+            "nama": "Gangsa Utama",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/logorado/128.jpg",
+            "descVote": [
+              {
+                "id": 40,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 41,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489b6"
+            },
+            "nama": "Cahyo Saptono",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/billyroshan/128.jpg",
+            "descVote": [
+              {
+                "id": 42,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 43,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489b7"
+            },
+            "nama": "Ina Zulaika S.Pd",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+            "descVote": [
+              {
+                "id": 44,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 45,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489b8"
+            },
+            "nama": "Naradi Marpaung",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/koridhandy/128.jpg",
+            "descVote": [
+              {
+                "id": 46,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 47,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0a423743f2ec88608a7"
+        },
+        "akronim": "GERINDRA",
+        "bendera": "https://drive.google.com/uc?id=1hDRkLiqIQB_RvufhpdW76OwQ6seG8dlD",
+        "nama": "PARTAI GERAKAN INDONESIA RAYA",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048955"
+            },
+            "nama": "Mahesa Setiawan",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/luxe/128.jpg",
+            "descVote": [
+              {
+                "id": 48,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 49,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048956"
+            },
+            "nama": "Malika Kusmawati",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/oscarowusu/128.jpg",
+            "descVote": [
+              {
+                "id": 50,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 51,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489c1"
+            },
+            "nama": "Atma Santoso",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jqiuss/128.jpg",
+            "descVote": [
+              {
+                "id": 52,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 53,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489c2"
+            },
+            "nama": "Ghaliyati Agustina",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kikillo/128.jpg",
+            "descVote": [
+              {
+                "id": 54,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 55,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489c3"
+            },
+            "nama": "Nurul Farida",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/johndezember/128.jpg",
+            "descVote": [
+              {
+                "id": 56,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 57,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489c4"
+            },
+            "nama": "Gawati Anggraini",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nateschulte/128.jpg",
+            "descVote": [
+              {
+                "id": 58,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 59,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0b323743f2ec88608a8"
+        },
+        "akronim": "Garuda",
+        "bendera": "https://drive.google.com/uc?id=18vYnklldZtrAHJtQ3QfXuzmi0R3FPXEH",
+        "nama": "PARTAI GERAKAN PERUBAHAN INDONESIA",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404895b"
+            },
+            "nama": "Ulva Utami M.Ak",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/andysolomon/128.jpg",
+            "descVote": [
+              {
+                "id": 60,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 61,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404895c"
+            },
+            "nama": "Kurnia Tarihoran",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/woodydotmx/128.jpg",
+            "descVote": [
+              {
+                "id": 62,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 63,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489cd"
+            },
+            "nama": "Citra Wastuti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jpscribbles/128.jpg",
+            "descVote": [
+              {
+                "id": 64,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 65,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ce"
+            },
+            "nama": "Omar Natsir S.I.Kom",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/prrstn/128.jpg",
+            "descVote": [
+              {
+                "id": 66,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 67,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489cf"
+            },
+            "nama": "Galih Sitorus",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lanceguyatt/128.jpg",
+            "descVote": [
+              {
+                "id": 68,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 69,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489d0"
+            },
+            "nama": "Maryanto Sihotang",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mahdif/128.jpg",
+            "descVote": [
+              {
+                "id": 70,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 71,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0c223743f2ec88608a9"
+        },
+        "akronim": "GOLKAR",
+        "bendera": "https://drive.google.com/uc?id=1B70sHULFnTn4QH-Xekk_5cPqlDWSrobS",
+        "nama": "PARTAI GOLONGAN KARYA",
+        "vote": 3,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048961"
+            },
+            "nama": "Legawa Firgantoro",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ultragex/128.jpg",
+            "descVote": [
+              {
+                "id": 72,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 73,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048962"
+            },
+            "nama": "Tira Susanti M.Pd",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/BryanHorsey/128.jpg",
+            "descVote": [
+              {
+                "id": 74,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 75,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489d9"
+            },
+            "nama": "Raden Tamba",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/scott_riley/128.jpg",
+            "descVote": [
+              {
+                "id": 76,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 77,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489da"
+            },
+            "nama": "Elvina Usada",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/switmer777/128.jpg",
+            "descVote": [
+              {
+                "id": 78,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 79,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489db"
+            },
+            "nama": "Unggul Saptono S.IP",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/we_social/128.jpg",
+            "descVote": [
+              {
+                "id": 80,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 81,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489dc"
+            },
+            "nama": "Bambang Simanjuntak",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dhilipsiva/128.jpg",
+            "descVote": [
+              {
+                "id": 82,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 83,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0cf23743f2ec88608aa"
+        },
+        "akronim": "HANURA",
+        "bendera": "https://drive.google.com/uc?id=1MT20bPJ-t4QUdtuVdG5H9W4r1xxKHflr",
+        "nama": "PARTAI HATI NURANI RAKYAT",
+        "vote": 5,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048967"
+            },
+            "nama": "Adhiarja Manullang",
+            "vote": 4,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/designervzm/128.jpg",
+            "descVote": [
+              {
+                "id": 84,
+                "region": "Padeglang",
+                "vote": 4
+              },
+              {
+                "id": 85,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048968"
+            },
+            "nama": "Oskar Pangestu",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mugukamil/128.jpg",
+            "descVote": [
+              {
+                "id": 86,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 87,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489e5"
+            },
+            "nama": "Jelita Suryatmi",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/rdsaunders/128.jpg",
+            "descVote": [
+              {
+                "id": 88,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 89,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489e6"
+            },
+            "nama": "Michelle Uyainah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/flexrs/128.jpg",
+            "descVote": [
+              {
+                "id": 90,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 91,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489e7"
+            },
+            "nama": "Tari Laksmiwati",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/vladyn/128.jpg",
+            "descVote": [
+              {
+                "id": 92,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 93,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489e8"
+            },
+            "nama": "Kawaca Tampubolon",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/caspergrl/128.jpg",
+            "descVote": [
+              {
+                "id": 94,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 95,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0db23743f2ec88608ab"
+        },
+        "akronim": "PKS",
+        "bendera": "https://drive.google.com/uc?id=1CbrDfqSLRDKuqENKqgOPe-WYYpvCjIxb",
+        "nama": "PARTAI KEADILAN SEJAHTERA",
+        "vote": 4,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404896d"
+            },
+            "nama": "Ciaobella Hastuti",
+            "vote": 3,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/commadelimited/128.jpg",
+            "descVote": [
+              {
+                "id": 96,
+                "region": "Padeglang",
+                "vote": 2
+              },
+              {
+                "id": 97,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404896e"
+            },
+            "nama": "Gangsa Hidayat",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/akmur/128.jpg",
+            "descVote": [
+              {
+                "id": 98,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 99,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489f1"
+            },
+            "nama": "Vicky Yuniar",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/soffes/128.jpg",
+            "descVote": [
+              {
+                "id": 100,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 101,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489f2"
+            },
+            "nama": "Harsana Iswahyudi",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/wake_gs/128.jpg",
+            "descVote": [
+              {
+                "id": 102,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 103,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489f3"
+            },
+            "nama": "Wasis Habibi",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tom_even/128.jpg",
+            "descVote": [
+              {
+                "id": 104,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 105,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489f4"
+            },
+            "nama": "Limar Anggriawan",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/judzhin_miles/128.jpg",
+            "descVote": [
+              {
+                "id": 106,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 107,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0e823743f2ec88608ac"
+        },
+        "akronim": "PKB",
+        "bendera": "https://drive.google.com/uc?id=1IEMOA-6EwIOTOwwwx7Bb6xCwXL_GdasM",
+        "nama": "PARTAI KEBANGKITAN BANGSA",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048973"
+            },
+            "nama": "Mustofa Habibi",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/klefue/128.jpg",
+            "descVote": [
+              {
+                "id": 108,
+                "region": "Padeglang",
+                "vote": 1
+              },
+              {
+                "id": 109,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048974"
+            },
+            "nama": "Raina Rahmawati",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/d33pthought/128.jpg",
+            "descVote": [
+              {
+                "id": 110,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 111,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489fd"
+            },
+            "nama": "Xanana Manullang",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/findingjenny/128.jpg",
+            "descVote": [
+              {
+                "id": 112,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 113,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489fe"
+            },
+            "nama": "Wadi Nugroho",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/baliomega/128.jpg",
+            "descVote": [
+              {
+                "id": 114,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 115,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ff"
+            },
+            "nama": "Ayu Permata",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/imcoding/128.jpg",
+            "descVote": [
+              {
+                "id": 116,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 117,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a00"
+            },
+            "nama": "Intan Usamah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/martinansty/128.jpg",
+            "descVote": [
+              {
+                "id": 118,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 119,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0f523743f2ec88608ad"
+        },
+        "akronim": "Nasdem",
+        "bendera": "https://drive.google.com/uc?id=1Nmykiz_sIWse2im8RfcHzu7vT0dTiJp-",
+        "nama": "PARTAI NASDEM",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048979"
+            },
+            "nama": "Hasna Nuraini",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lanceguyatt/128.jpg",
+            "descVote": [
+              {
+                "id": 120,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 121,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404897a"
+            },
+            "nama": "Gada Hutagalung",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+            "descVote": [
+              {
+                "id": 122,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 123,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a09"
+            },
+            "nama": "Arta Irawan",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/sachingawas/128.jpg",
+            "descVote": [
+              {
+                "id": 124,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 125,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a0a"
+            },
+            "nama": "Olivia Usamah M.Farm",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/webtanya/128.jpg",
+            "descVote": [
+              {
+                "id": 126,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 127,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a0b"
+            },
+            "nama": "Nurul Andriani M.TI.",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/frankiefreesbie/128.jpg",
+            "descVote": [
+              {
+                "id": 128,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 129,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a0c"
+            },
+            "nama": "Azalea Widiastuti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kudretkeskin/128.jpg",
+            "descVote": [
+              {
+                "id": 130,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 131,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c10423743f2ec88608ae"
+        },
+        "akronim": "PPP",
+        "bendera": "https://drive.google.com/uc?id=1aZko_UdGLe_oPgaeGx_Wxf5cnfKRkjbW",
+        "nama": "PARTAI PERSATUAN PEMBANGUNAN",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404897f"
+            },
+            "nama": "Yuni Melani M.Farm",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/meelford/128.jpg",
+            "descVote": [
+              {
+                "id": 132,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 133,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048980"
+            },
+            "nama": "Gada Marpaung S.IP",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/conspirator/128.jpg",
+            "descVote": [
+              {
+                "id": 134,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 135,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a15"
+            },
+            "nama": "Lalita Widiastuti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jacobbennett/128.jpg",
+            "descVote": [
+              {
+                "id": 136,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 137,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a16"
+            },
+            "nama": "Ratna Zulaika",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/danvierich/128.jpg",
+            "descVote": [
+              {
+                "id": 138,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 139,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a17"
+            },
+            "nama": "Gabriella Haryanti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/michaelcomiskey/128.jpg",
+            "descVote": [
+              {
+                "id": 140,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 141,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a18"
+            },
+            "nama": "Shakila Pudjiastuti S.E.",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg",
+            "descVote": [
+              {
+                "id": 142,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 143,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c10e23743f2ec88608af"
+        },
+        "akronim": "PSI",
+        "bendera": "https://drive.google.com/uc?id=1VGOQIa4ZwKpC_Wmx-FeuUZauHy0ZYADS",
+        "nama": "PARTAI SOLIDARITAS INDONESIA",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048985"
+            },
+            "nama": "Kala Sinaga",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/S0ufi4n3/128.jpg",
+            "descVote": [
+              {
+                "id": 144,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 145,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048986"
+            },
+            "nama": "Paramita Safitri",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/chaensel/128.jpg",
+            "descVote": [
+              {
+                "id": 146,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 147,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a21"
+            },
+            "nama": "Jaya Suwarno S.Gz",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/longlivemyword/128.jpg",
+            "descVote": [
+              {
+                "id": 148,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 149,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a22"
+            },
+            "nama": "Jabal Sirait",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/katiemdaly/128.jpg",
+            "descVote": [
+              {
+                "id": 150,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 151,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a23"
+            },
+            "nama": "Winda Halimah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg",
+            "descVote": [
+              {
+                "id": 152,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 153,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a24"
+            },
+            "nama": "Kartika Nasyidah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ganserene/128.jpg",
+            "descVote": [
+              {
+                "id": 154,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 155,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c11923743f2ec88608b0"
+        },
+        "akronim": "PERINDO",
+        "bendera": "https://drive.google.com/uc?id=1cPb4y3Y73tbnGh6FPRO3J5ir06fqwmNZ",
+        "nama": "PERSATUAN INDONESIA",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404898b"
+            },
+            "nama": "Bala Firgantoro",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lingeswaran/128.jpg",
+            "descVote": [
+              {
+                "id": 156,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 157,
+                "region": "Lebak",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404898c"
+            },
+            "nama": "Jabal Prakasa",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mattsapii/128.jpg",
+            "descVote": [
+              {
+                "id": 158,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 159,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a2d"
+            },
+            "nama": "Ibun Dabukke",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/_williamguerra/128.jpg",
+            "descVote": [
+              {
+                "id": 160,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 161,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a2e"
+            },
+            "nama": "Syahrini Mardhiyah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/scottkclark/128.jpg",
+            "descVote": [
+              {
+                "id": 162,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 163,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a2f"
+            },
+            "nama": "Cawuk Pradipta",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/simobenso/128.jpg",
+            "descVote": [
+              {
+                "id": 164,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 165,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a30"
+            },
+            "nama": "Cahyadi Simanjuntak S.H.",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/salimianoff/128.jpg",
+            "descVote": [
+              {
+                "id": 166,
+                "region": "Padeglang",
+                "vote": 0
+              },
+              {
+                "id": 167,
+                "region": "Lebak",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "createdAt": {
+    "$date": "2020-06-07T03:53:35.074Z"
+  },
+  "dapil": "Banten1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc6dc8095c2b15e823e7f8"
+  },
+  "vote": [
+    [
+      {
+        "id": {
+          "$oid": "5b29bff823743f2ec88608a3"
+        },
+        "akronim": "PAN",
+        "bendera": "https://drive.google.com/uc?id=1UUFK2gA-lrRc9uRAymzpq4ygWVGcT_ig",
+        "nama": "PARTAI AMANAT NASIONAL",
+        "vote": 8,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404893f"
+            },
+            "nama": "Vivi Rahimah",
+            "vote": 6,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kohette/128.jpg",
+            "descVote": [
+              {
+                "id": 168,
+                "region": "Kota Serang",
+                "vote": 2
+              },
+              {
+                "id": 169,
+                "region": "Kota Cilegon",
+                "vote": 2
+              },
+              {
+                "id": 170,
+                "region": "Serang",
+                "vote": 2
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048940"
+            },
+            "nama": "Usyi Haryanti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/harry_sistalam/128.jpg",
+            "descVote": [
+              {
+                "id": 171,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 172,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 173,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048995"
+            },
+            "nama": "Saiful Siregar",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/carbontwelve/128.jpg",
+            "descVote": [
+              {
+                "id": 174,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 175,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 176,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048996"
+            },
+            "nama": "Rahmi Pudjiastuti M.M.",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/djsherman/128.jpg",
+            "descVote": [
+              {
+                "id": 177,
+                "region": "Kota Serang",
+                "vote": 1
+              },
+              {
+                "id": 178,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 179,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048997"
+            },
+            "nama": "Halima Handayani",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/hellofeverrrr/128.jpg",
+            "descVote": [
+              {
+                "id": 180,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 181,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 182,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048998"
+            },
+            "nama": "Darmanto Setiawan M.Kom.",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/increase/128.jpg",
+            "descVote": [
+              {
+                "id": 183,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 184,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 185,
+                "region": "Serang",
+                "vote": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c06a23743f2ec88608a4"
+        },
+        "akronim": "BERKARYA",
+        "bendera": "https://drive.google.com/uc?id=1bfjgfefKX6f22wOmEtG4LdohZJ7jFVvL",
+        "nama": "PARTAI BERKARYA",
+        "vote": 9,
+        "sits": 2,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048945"
+            },
+            "nama": "Hadi Sihotang",
+            "vote": 7,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/arthurholcombe1/128.jpg",
+            "descVote": [
+              {
+                "id": 186,
+                "region": "Kota Serang",
+                "vote": 4
+              },
+              {
+                "id": 187,
+                "region": "Kota Cilegon",
+                "vote": 2
+              },
+              {
+                "id": 188,
+                "region": "Serang",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048946"
+            },
+            "nama": "Ana Wastuti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/_yardenoon/128.jpg",
+            "descVote": [
+              {
+                "id": 189,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 190,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 191,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489a1"
+            },
+            "nama": "Alambana Permadi",
+            "vote": 2,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ateneupopular/128.jpg",
+            "descVote": [
+              {
+                "id": 192,
+                "region": "Kota Serang",
+                "vote": 2
+              },
+              {
+                "id": 193,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 194,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489a2"
+            },
+            "nama": "Silvia Yulianti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/yehudab/128.jpg",
+            "descVote": [
+              {
+                "id": 195,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 196,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 197,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489a3"
+            },
+            "nama": "Gada Mangunsong",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ateneupopular/128.jpg",
+            "descVote": [
+              {
+                "id": 198,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 199,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 200,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489a4"
+            },
+            "nama": "Cengkir Putra M.Ak",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/GavicoInd/128.jpg",
+            "descVote": [
+              {
+                "id": 201,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 202,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 203,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c08323743f2ec88608a5"
+        },
+        "akronim": "PDI PERJUANGAN",
+        "bendera": "https://drive.google.com/uc?id=1ubM9IGH2HeQL6mTcl-rimhzhPD9ycHRV",
+        "nama": "PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "vote": 3,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404894b"
+            },
+            "nama": "Darijan Maryadi",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/scips/128.jpg",
+            "descVote": [
+              {
+                "id": 204,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 205,
+                "region": "Kota Cilegon",
+                "vote": 1
+              },
+              {
+                "id": 206,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404894c"
+            },
+            "nama": "Erik Napitupulu",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/embrcecreations/128.jpg",
+            "descVote": [
+              {
+                "id": 207,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 208,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 209,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ad"
+            },
+            "nama": "Wadi Hakim",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/weavermedia/128.jpg",
+            "descVote": [
+              {
+                "id": 210,
+                "region": "Kota Serang",
+                "vote": 1
+              },
+              {
+                "id": 211,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 212,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ae"
+            },
+            "nama": "Farhunnisa Agustina",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/areus/128.jpg",
+            "descVote": [
+              {
+                "id": 213,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 214,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 215,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489af"
+            },
+            "nama": "Hani Laksita M.Ak",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/rodnylobos/128.jpg",
+            "descVote": [
+              {
+                "id": 216,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 217,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 218,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489b0"
+            },
+            "nama": "Citra Mulyani",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mattbilotti/128.jpg",
+            "descVote": [
+              {
+                "id": 219,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 220,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 221,
+                "region": "Serang",
+                "vote": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c09223743f2ec88608a6"
+        },
+        "akronim": "Partai Demokrat",
+        "bendera": "https://drive.google.com/uc?id=1OYj3_7mCjmiCNr3SjmhSq-PdF1b3eyGw",
+        "nama": "PARTAI DEMOKRAT",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048951"
+            },
+            "nama": "Gilda Farida",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lawlbwoy/128.jpg",
+            "descVote": [
+              {
+                "id": 222,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 223,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 224,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048952"
+            },
+            "nama": "Victoria Pudjiastuti M.TI.",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/wiljanslofstra/128.jpg",
+            "descVote": [
+              {
+                "id": 225,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 226,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 227,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489b9"
+            },
+            "nama": "Garan Haryanto",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/cadikkara/128.jpg",
+            "descVote": [
+              {
+                "id": 228,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 229,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 230,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ba"
+            },
+            "nama": "Samsul Nainggolan M.Ak",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bu7921/128.jpg",
+            "descVote": [
+              {
+                "id": 231,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 232,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 233,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489bb"
+            },
+            "nama": "Dartono Tamba",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jghyllebert/128.jpg",
+            "descVote": [
+              {
+                "id": 234,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 235,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 236,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489bc"
+            },
+            "nama": "Diah Suartini S.E.",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/aka_james/128.jpg",
+            "descVote": [
+              {
+                "id": 237,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 238,
+                "region": "Kota Cilegon",
+                "vote": 1
+              },
+              {
+                "id": 239,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0a423743f2ec88608a7"
+        },
+        "akronim": "GERINDRA",
+        "bendera": "https://drive.google.com/uc?id=1hDRkLiqIQB_RvufhpdW76OwQ6seG8dlD",
+        "nama": "PARTAI GERAKAN INDONESIA RAYA",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048957"
+            },
+            "nama": "Endah Kuswandari",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/zforrester/128.jpg",
+            "descVote": [
+              {
+                "id": 240,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 241,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 242,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048958"
+            },
+            "nama": "Kairav Halim",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/martip07/128.jpg",
+            "descVote": [
+              {
+                "id": 243,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 244,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 245,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489c5"
+            },
+            "nama": "Febi Mardhiyah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dev_essentials/128.jpg",
+            "descVote": [
+              {
+                "id": 246,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 247,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 248,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489c6"
+            },
+            "nama": "Kardi Nashiruddin S.Gz",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jeremiespoken/128.jpg",
+            "descVote": [
+              {
+                "id": 249,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 250,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 251,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489c7"
+            },
+            "nama": "Zulfa Suartini",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ganserene/128.jpg",
+            "descVote": [
+              {
+                "id": 252,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 253,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 254,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489c8"
+            },
+            "nama": "Rini Pratiwi M.Ak",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/yecidsm/128.jpg",
+            "descVote": [
+              {
+                "id": 255,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 256,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 257,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0b323743f2ec88608a8"
+        },
+        "akronim": "Garuda",
+        "bendera": "https://drive.google.com/uc?id=18vYnklldZtrAHJtQ3QfXuzmi0R3FPXEH",
+        "nama": "PARTAI GERAKAN PERUBAHAN INDONESIA",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404895d"
+            },
+            "nama": "Fitriani Pertiwi",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/vc27/128.jpg",
+            "descVote": [
+              {
+                "id": 258,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 259,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 260,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404895e"
+            },
+            "nama": "Edward Wibisono",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmartineau/128.jpg",
+            "descVote": [
+              {
+                "id": 261,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 262,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 263,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489d1"
+            },
+            "nama": "Ana Pudjiastuti S.Kom",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/thibaut_re/128.jpg",
+            "descVote": [
+              {
+                "id": 264,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 265,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 266,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489d2"
+            },
+            "nama": "Vanesa Puspasari",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mhaligowski/128.jpg",
+            "descVote": [
+              {
+                "id": 267,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 268,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 269,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489d3"
+            },
+            "nama": "Cinthia Haryanti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/madysondesigns/128.jpg",
+            "descVote": [
+              {
+                "id": 270,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 271,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 272,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489d4"
+            },
+            "nama": "Zaenab Rahmawati S.Gz",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/evandrix/128.jpg",
+            "descVote": [
+              {
+                "id": 273,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 274,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 275,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0c223743f2ec88608a9"
+        },
+        "akronim": "GOLKAR",
+        "bendera": "https://drive.google.com/uc?id=1B70sHULFnTn4QH-Xekk_5cPqlDWSrobS",
+        "nama": "PARTAI GOLONGAN KARYA",
+        "vote": 2,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048963"
+            },
+            "nama": "Lidya Utami",
+            "vote": 2,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kikillo/128.jpg",
+            "descVote": [
+              {
+                "id": 276,
+                "region": "Kota Serang",
+                "vote": 1
+              },
+              {
+                "id": 277,
+                "region": "Kota Cilegon",
+                "vote": 1
+              },
+              {
+                "id": 278,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048964"
+            },
+            "nama": "Jaswadi Hutasoit",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/magugzbrand2d/128.jpg",
+            "descVote": [
+              {
+                "id": 279,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 280,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 281,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489dd"
+            },
+            "nama": "Nadia Rahayu",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bluesix/128.jpg",
+            "descVote": [
+              {
+                "id": 282,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 283,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 284,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489de"
+            },
+            "nama": "Kardi Marbun",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/agustincruiz/128.jpg",
+            "descVote": [
+              {
+                "id": 285,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 286,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 287,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489df"
+            },
+            "nama": "Putri Hassanah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/besbujupi/128.jpg",
+            "descVote": [
+              {
+                "id": 288,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 289,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 290,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489e0"
+            },
+            "nama": "Putri Nasyidah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/saarabpreet/128.jpg",
+            "descVote": [
+              {
+                "id": 291,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 292,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 293,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0cf23743f2ec88608aa"
+        },
+        "akronim": "HANURA",
+        "bendera": "https://drive.google.com/uc?id=1MT20bPJ-t4QUdtuVdG5H9W4r1xxKHflr",
+        "nama": "PARTAI HATI NURANI RAKYAT",
+        "vote": 6,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048969"
+            },
+            "nama": "Xanana Pangestu",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/stefanotirloni/128.jpg",
+            "descVote": [
+              {
+                "id": 294,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 295,
+                "region": "Kota Cilegon",
+                "vote": 1
+              },
+              {
+                "id": 296,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404896a"
+            },
+            "nama": "Faizah Nuraini",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/arindam_/128.jpg",
+            "descVote": [
+              {
+                "id": 297,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 298,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 299,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489e9"
+            },
+            "nama": "Dalimin Nainggolan M.Kom.",
+            "vote": 2,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/davidsasda/128.jpg",
+            "descVote": [
+              {
+                "id": 300,
+                "region": "Kota Serang",
+                "vote": 1
+              },
+              {
+                "id": 301,
+                "region": "Kota Cilegon",
+                "vote": 1
+              },
+              {
+                "id": 302,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ea"
+            },
+            "nama": "Violet Rahimah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jehnglynn/128.jpg",
+            "descVote": [
+              {
+                "id": 303,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 304,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 305,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489eb"
+            },
+            "nama": "Tomi Prakasa",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/elliotlewis/128.jpg",
+            "descVote": [
+              {
+                "id": 306,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 307,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 308,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ec"
+            },
+            "nama": "Syahrini Susanti M.Ak",
+            "vote": 3,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/embrcecreations/128.jpg",
+            "descVote": [
+              {
+                "id": 309,
+                "region": "Kota Serang",
+                "vote": 1
+              },
+              {
+                "id": 310,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 311,
+                "region": "Serang",
+                "vote": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0db23743f2ec88608ab"
+        },
+        "akronim": "PKS",
+        "bendera": "https://drive.google.com/uc?id=1CbrDfqSLRDKuqENKqgOPe-WYYpvCjIxb",
+        "nama": "PARTAI KEADILAN SEJAHTERA",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404896f"
+            },
+            "nama": "Rahayu Aryani",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/codepoet_ru/128.jpg",
+            "descVote": [
+              {
+                "id": 312,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 313,
+                "region": "Kota Cilegon",
+                "vote": 1
+              },
+              {
+                "id": 314,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048970"
+            },
+            "nama": "Eli Rahayu",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ultragex/128.jpg",
+            "descVote": [
+              {
+                "id": 315,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 316,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 317,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489f5"
+            },
+            "nama": "Ganda Marbun",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/faisalabid/128.jpg",
+            "descVote": [
+              {
+                "id": 318,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 319,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 320,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489f6"
+            },
+            "nama": "Kani Winarsih",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/baumannzone/128.jpg",
+            "descVote": [
+              {
+                "id": 321,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 322,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 323,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489f7"
+            },
+            "nama": "Ghaliyati Andriani S.Ked",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/vickyshits/128.jpg",
+            "descVote": [
+              {
+                "id": 324,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 325,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 326,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489f8"
+            },
+            "nama": "Titi Handayani",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/michaelmartinho/128.jpg",
+            "descVote": [
+              {
+                "id": 327,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 328,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 329,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0e823743f2ec88608ac"
+        },
+        "akronim": "PKB",
+        "bendera": "https://drive.google.com/uc?id=1IEMOA-6EwIOTOwwwx7Bb6xCwXL_GdasM",
+        "nama": "PARTAI KEBANGKITAN BANGSA",
+        "vote": 6,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048975"
+            },
+            "nama": "Uchita Winarsih",
+            "vote": 4,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mylesb/128.jpg",
+            "descVote": [
+              {
+                "id": 330,
+                "region": "Kota Serang",
+                "vote": 2
+              },
+              {
+                "id": 331,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 332,
+                "region": "Serang",
+                "vote": 2
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048976"
+            },
+            "nama": "Reksa Hidayat S.Pt",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/xiel/128.jpg",
+            "descVote": [
+              {
+                "id": 333,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 334,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 335,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a01"
+            },
+            "nama": "Harsana Putra M.Kom.",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/anatolinicolae/128.jpg",
+            "descVote": [
+              {
+                "id": 336,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 337,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 338,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a02"
+            },
+            "nama": "Cornelia Wijayanti",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dreizle/128.jpg",
+            "descVote": [
+              {
+                "id": 339,
+                "region": "Kota Serang",
+                "vote": 1
+              },
+              {
+                "id": 340,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 341,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a03"
+            },
+            "nama": "Cawuk Damanik",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/andrewabogado/128.jpg",
+            "descVote": [
+              {
+                "id": 342,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 343,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 344,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a04"
+            },
+            "nama": "Puti Wastuti",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/g3d/128.jpg",
+            "descVote": [
+              {
+                "id": 345,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 346,
+                "region": "Kota Cilegon",
+                "vote": 1
+              },
+              {
+                "id": 347,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0f523743f2ec88608ad"
+        },
+        "akronim": "Nasdem",
+        "bendera": "https://drive.google.com/uc?id=1Nmykiz_sIWse2im8RfcHzu7vT0dTiJp-",
+        "nama": "PARTAI NASDEM",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404897b"
+            },
+            "nama": "Latika Oktaviani",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bennyjien/128.jpg",
+            "descVote": [
+              {
+                "id": 348,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 349,
+                "region": "Kota Cilegon",
+                "vote": 1
+              },
+              {
+                "id": 350,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404897c"
+            },
+            "nama": "Argono Najmudin",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/timothycd/128.jpg",
+            "descVote": [
+              {
+                "id": 351,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 352,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 353,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a0d"
+            },
+            "nama": "Elvina Hasanah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/klimmka/128.jpg",
+            "descVote": [
+              {
+                "id": 354,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 355,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 356,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a0e"
+            },
+            "nama": "Ayu Mardhiyah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/yecidsm/128.jpg",
+            "descVote": [
+              {
+                "id": 357,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 358,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 359,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a0f"
+            },
+            "nama": "Drajat Sinaga",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/meln1ks/128.jpg",
+            "descVote": [
+              {
+                "id": 360,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 361,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 362,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a10"
+            },
+            "nama": "Lembah Siregar",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/karsh/128.jpg",
+            "descVote": [
+              {
+                "id": 363,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 364,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 365,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c10423743f2ec88608ae"
+        },
+        "akronim": "PPP",
+        "bendera": "https://drive.google.com/uc?id=1aZko_UdGLe_oPgaeGx_Wxf5cnfKRkjbW",
+        "nama": "PARTAI PERSATUAN PEMBANGUNAN",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048981"
+            },
+            "nama": "Violet Utami",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bighanddesign/128.jpg",
+            "descVote": [
+              {
+                "id": 366,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 367,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 368,
+                "region": "Serang",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048982"
+            },
+            "nama": "Jaga Saputra",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jwalter14/128.jpg",
+            "descVote": [
+              {
+                "id": 369,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 370,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 371,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a19"
+            },
+            "nama": "Tedi Maulana",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bboy1895/128.jpg",
+            "descVote": [
+              {
+                "id": 372,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 373,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 374,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a1a"
+            },
+            "nama": "Paramita Agustina",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/stefanozoffoli/128.jpg",
+            "descVote": [
+              {
+                "id": 375,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 376,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 377,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a1b"
+            },
+            "nama": "Ajeng Suartini",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/spedwig/128.jpg",
+            "descVote": [
+              {
+                "id": 378,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 379,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 380,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a1c"
+            },
+            "nama": "Jaiman Tampubolon S.Pd",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/snowwrite/128.jpg",
+            "descVote": [
+              {
+                "id": 381,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 382,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 383,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c10e23743f2ec88608af"
+        },
+        "akronim": "PSI",
+        "bendera": "https://drive.google.com/uc?id=1VGOQIa4ZwKpC_Wmx-FeuUZauHy0ZYADS",
+        "nama": "PARTAI SOLIDARITAS INDONESIA",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048987"
+            },
+            "nama": "Oliva Novitasari",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/prheemo/128.jpg",
+            "descVote": [
+              {
+                "id": 384,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 385,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 386,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048988"
+            },
+            "nama": "Putri Safitri M.Pd",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/michaelcomiskey/128.jpg",
+            "descVote": [
+              {
+                "id": 387,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 388,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 389,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a25"
+            },
+            "nama": "Soleh Tampubolon",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ccinojasso1/128.jpg",
+            "descVote": [
+              {
+                "id": 390,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 391,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 392,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a26"
+            },
+            "nama": "Yuni Wastuti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/vlajki/128.jpg",
+            "descVote": [
+              {
+                "id": 393,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 394,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 395,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a27"
+            },
+            "nama": "Umi Mayasari M.Ak",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tweetubhai/128.jpg",
+            "descVote": [
+              {
+                "id": 396,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 397,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 398,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a28"
+            },
+            "nama": "Anita Riyanti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/falvarad/128.jpg",
+            "descVote": [
+              {
+                "id": 399,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 400,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 401,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c11923743f2ec88608b0"
+        },
+        "akronim": "PERINDO",
+        "bendera": "https://drive.google.com/uc?id=1cPb4y3Y73tbnGh6FPRO3J5ir06fqwmNZ",
+        "nama": "PERSATUAN INDONESIA",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404898d"
+            },
+            "nama": "Paulin Mandasari",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mkginfo/128.jpg",
+            "descVote": [
+              {
+                "id": 402,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 403,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 404,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404898e"
+            },
+            "nama": "Winda Maryati",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/reetajayendra/128.jpg",
+            "descVote": [
+              {
+                "id": 405,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 406,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 407,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a31"
+            },
+            "nama": "Warsita Mangunsong",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/teddyzetterlund/128.jpg",
+            "descVote": [
+              {
+                "id": 408,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 409,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 410,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a32"
+            },
+            "nama": "Timbul Mahendra",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kolsvein/128.jpg",
+            "descVote": [
+              {
+                "id": 411,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 412,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 413,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a33"
+            },
+            "nama": "Catur Prasasta M.Pd",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/wegotvices/128.jpg",
+            "descVote": [
+              {
+                "id": 414,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 415,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 416,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a34"
+            },
+            "nama": "Bakidin Januar",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/alxndrustinov/128.jpg",
+            "descVote": [
+              {
+                "id": 417,
+                "region": "Kota Serang",
+                "vote": 0
+              },
+              {
+                "id": 418,
+                "region": "Kota Cilegon",
+                "vote": 0
+              },
+              {
+                "id": 419,
+                "region": "Serang",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "createdAt": {
+    "$date": "2020-06-07T03:53:35.074Z"
+  },
+  "dapil": "Banten2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc6dc8095c2b15e823e7f9"
+  },
+  "vote": [
+    [
+      {
+        "id": {
+          "$oid": "5b29bff823743f2ec88608a3"
+        },
+        "akronim": "PAN",
+        "bendera": "https://drive.google.com/uc?id=1UUFK2gA-lrRc9uRAymzpq4ygWVGcT_ig",
+        "nama": "PARTAI AMANAT NASIONAL",
+        "vote": 10,
+        "sits": 4,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048941"
+            },
+            "nama": "Kasiyah Hariyah M.Farm",
+            "vote": 6,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/timothycd/128.jpg",
+            "descVote": [
+              {
+                "id": 420,
+                "region": "Kabupaten Tangerang",
+                "vote": 2
+              },
+              {
+                "id": 421,
+                "region": "Kota Tangerang",
+                "vote": 1
+              },
+              {
+                "id": 422,
+                "region": "Tangerang Selatan",
+                "vote": 3
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048942"
+            },
+            "nama": "Wawan Nugroho",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tumski/128.jpg",
+            "descVote": [
+              {
+                "id": 423,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 424,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 425,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048999"
+            },
+            "nama": "Puti Anggraini",
+            "vote": 2,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/horaciobella/128.jpg",
+            "descVote": [
+              {
+                "id": 426,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 427,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 428,
+                "region": "Tangerang Selatan",
+                "vote": 2
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404899a"
+            },
+            "nama": "Titi Puspasari S.Sos",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/madysondesigns/128.jpg",
+            "descVote": [
+              {
+                "id": 429,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 430,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 431,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404899b"
+            },
+            "nama": "Rahmi Hariyah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/lebronjennan/128.jpg",
+            "descVote": [
+              {
+                "id": 432,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 433,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 434,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404899c"
+            },
+            "nama": "Karja Mahendra",
+            "vote": 2,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nutzumi/128.jpg",
+            "descVote": [
+              {
+                "id": 435,
+                "region": "Kabupaten Tangerang",
+                "vote": 1
+              },
+              {
+                "id": 436,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 437,
+                "region": "Tangerang Selatan",
+                "vote": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c06a23743f2ec88608a4"
+        },
+        "akronim": "BERKARYA",
+        "bendera": "https://drive.google.com/uc?id=1bfjgfefKX6f22wOmEtG4LdohZJ7jFVvL",
+        "nama": "PARTAI BERKARYA",
+        "vote": 4,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048947"
+            },
+            "nama": "Raditya Kuswoyo",
+            "vote": 3,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/j_drake_/128.jpg",
+            "descVote": [
+              {
+                "id": 438,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 439,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 440,
+                "region": "Tangerang Selatan",
+                "vote": 3
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048948"
+            },
+            "nama": "Galak Januar",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/shoaib253/128.jpg",
+            "descVote": [
+              {
+                "id": 441,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 442,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 443,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489a5"
+            },
+            "nama": "Ellis Wijayanti M.M.",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/imammuht/128.jpg",
+            "descVote": [
+              {
+                "id": 444,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 445,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 446,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489a6"
+            },
+            "nama": "Arta Mangunsong S.IP",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ssiskind/128.jpg",
+            "descVote": [
+              {
+                "id": 447,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 448,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 449,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489a7"
+            },
+            "nama": "Putri Wulandari",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/pechkinator/128.jpg",
+            "descVote": [
+              {
+                "id": 450,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 451,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 452,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489a8"
+            },
+            "nama": "Hani Hariyah M.Kom.",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/rangafangs/128.jpg",
+            "descVote": [
+              {
+                "id": 453,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 454,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 455,
+                "region": "Tangerang Selatan",
+                "vote": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c08323743f2ec88608a5"
+        },
+        "akronim": "PDI PERJUANGAN",
+        "bendera": "https://drive.google.com/uc?id=1ubM9IGH2HeQL6mTcl-rimhzhPD9ycHRV",
+        "nama": "PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "vote": 4,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404894d"
+            },
+            "nama": "Cemeti Ardianto",
+            "vote": 3,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/RussellBishop/128.jpg",
+            "descVote": [
+              {
+                "id": 456,
+                "region": "Kabupaten Tangerang",
+                "vote": 1
+              },
+              {
+                "id": 457,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 458,
+                "region": "Tangerang Selatan",
+                "vote": 2
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404894e"
+            },
+            "nama": "Sabar Ardianto",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bluefx_/128.jpg",
+            "descVote": [
+              {
+                "id": 459,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 460,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 461,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489b1"
+            },
+            "nama": "Novi Wahyuni",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tereshenkov/128.jpg",
+            "descVote": [
+              {
+                "id": 462,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 463,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 464,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489b2"
+            },
+            "nama": "Raisa Suartini M.M.",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mastermindesign/128.jpg",
+            "descVote": [
+              {
+                "id": 465,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 466,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 467,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489b3"
+            },
+            "nama": "Luluh Iswahyudi S.Pt",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/cocolero/128.jpg",
+            "descVote": [
+              {
+                "id": 468,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 469,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 470,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489b4"
+            },
+            "nama": "Bahuwarna Wibowo",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/allfordesign/128.jpg",
+            "descVote": [
+              {
+                "id": 471,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 472,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 473,
+                "region": "Tangerang Selatan",
+                "vote": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c09223743f2ec88608a6"
+        },
+        "akronim": "Partai Demokrat",
+        "bendera": "https://drive.google.com/uc?id=1OYj3_7mCjmiCNr3SjmhSq-PdF1b3eyGw",
+        "nama": "PARTAI DEMOKRAT",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048953"
+            },
+            "nama": "Ulva Puspasari",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/samgrover/128.jpg",
+            "descVote": [
+              {
+                "id": 474,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 475,
+                "region": "Kota Tangerang",
+                "vote": 1
+              },
+              {
+                "id": 476,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048954"
+            },
+            "nama": "Prayoga Firmansyah S.E.I",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/exentrich/128.jpg",
+            "descVote": [
+              {
+                "id": 477,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 478,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 479,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489bd"
+            },
+            "nama": "Akarsana Nainggolan",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/h1brd/128.jpg",
+            "descVote": [
+              {
+                "id": 480,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 481,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 482,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489be"
+            },
+            "nama": "Jamal Situmorang",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/malgordon/128.jpg",
+            "descVote": [
+              {
+                "id": 483,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 484,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 485,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489bf"
+            },
+            "nama": "Lintang Uyainah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mutu_krish/128.jpg",
+            "descVote": [
+              {
+                "id": 486,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 487,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 488,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489c0"
+            },
+            "nama": "Martani Hutasoit S.I.Kom",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/edgarchris99/128.jpg",
+            "descVote": [
+              {
+                "id": 489,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 490,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 491,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0a423743f2ec88608a7"
+        },
+        "akronim": "GERINDRA",
+        "bendera": "https://drive.google.com/uc?id=1hDRkLiqIQB_RvufhpdW76OwQ6seG8dlD",
+        "nama": "PARTAI GERAKAN INDONESIA RAYA",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048959"
+            },
+            "nama": "Harjo Gunarto",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/wesleytrankin/128.jpg",
+            "descVote": [
+              {
+                "id": 492,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 493,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 494,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404895a"
+            },
+            "nama": "Putri Susanti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/Shriiiiimp/128.jpg",
+            "descVote": [
+              {
+                "id": 495,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 496,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 497,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489c9"
+            },
+            "nama": "Zulfa Puspita",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/_kkga/128.jpg",
+            "descVote": [
+              {
+                "id": 498,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 499,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 500,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ca"
+            },
+            "nama": "Septi Aryani",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/zvchkelly/128.jpg",
+            "descVote": [
+              {
+                "id": 501,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 502,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 503,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489cb"
+            },
+            "nama": "Asmuni Tamba",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/sergeyalmone/128.jpg",
+            "descVote": [
+              {
+                "id": 504,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 505,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 506,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489cc"
+            },
+            "nama": "Talia Mandasari",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nitinhayaran/128.jpg",
+            "descVote": [
+              {
+                "id": 507,
+                "region": "Kabupaten Tangerang",
+                "vote": 1
+              },
+              {
+                "id": 508,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 509,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0b323743f2ec88608a8"
+        },
+        "akronim": "Garuda",
+        "bendera": "https://drive.google.com/uc?id=18vYnklldZtrAHJtQ3QfXuzmi0R3FPXEH",
+        "nama": "PARTAI GERAKAN PERUBAHAN INDONESIA",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404895f"
+            },
+            "nama": "Mutia Pertiwi S.I.Kom",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ManikRathee/128.jpg",
+            "descVote": [
+              {
+                "id": 510,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 511,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 512,
+                "region": "Tangerang Selatan",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048960"
+            },
+            "nama": "Bella Mardhiyah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/victorerixon/128.jpg",
+            "descVote": [
+              {
+                "id": 513,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 514,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 515,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489d5"
+            },
+            "nama": "Zulaikha Nuraini",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/baumannzone/128.jpg",
+            "descVote": [
+              {
+                "id": 516,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 517,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 518,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489d6"
+            },
+            "nama": "Vinsen Sirait",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tweetubhai/128.jpg",
+            "descVote": [
+              {
+                "id": 519,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 520,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 521,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489d7"
+            },
+            "nama": "Jessica Agustina",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/adhiardana/128.jpg",
+            "descVote": [
+              {
+                "id": 522,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 523,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 524,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489d8"
+            },
+            "nama": "Ajiono Waskita",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ultragex/128.jpg",
+            "descVote": [
+              {
+                "id": 525,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 526,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 527,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0c223743f2ec88608a9"
+        },
+        "akronim": "GOLKAR",
+        "bendera": "https://drive.google.com/uc?id=1B70sHULFnTn4QH-Xekk_5cPqlDWSrobS",
+        "nama": "PARTAI GOLONGAN KARYA",
+        "vote": 4,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048965"
+            },
+            "nama": "Prayogo Saputra",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/alexandermayes/128.jpg",
+            "descVote": [
+              {
+                "id": 528,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 529,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 530,
+                "region": "Tangerang Selatan",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048966"
+            },
+            "nama": "Jasmin Hartati",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/blakesimkins/128.jpg",
+            "descVote": [
+              {
+                "id": 531,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 532,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 533,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489e1"
+            },
+            "nama": "Nugraha Marbun",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/madshensel/128.jpg",
+            "descVote": [
+              {
+                "id": 534,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 535,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 536,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489e2"
+            },
+            "nama": "Kawaya Hutasoit",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/baumann_alex/128.jpg",
+            "descVote": [
+              {
+                "id": 537,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 538,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 539,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489e3"
+            },
+            "nama": "Kemal Siregar M.Pd",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/leemunroe/128.jpg",
+            "descVote": [
+              {
+                "id": 540,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 541,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 542,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489e4"
+            },
+            "nama": "Cahya Pangestu",
+            "vote": 3,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/funwatercat/128.jpg",
+            "descVote": [
+              {
+                "id": 543,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 544,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 545,
+                "region": "Tangerang Selatan",
+                "vote": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0cf23743f2ec88608aa"
+        },
+        "akronim": "HANURA",
+        "bendera": "https://drive.google.com/uc?id=1MT20bPJ-t4QUdtuVdG5H9W4r1xxKHflr",
+        "nama": "PARTAI HATI NURANI RAKYAT",
+        "vote": 4,
+        "sits": 2,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404896b"
+            },
+            "nama": "Uda Gunarto",
+            "vote": 3,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tweetubhai/128.jpg",
+            "descVote": [
+              {
+                "id": 546,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 547,
+                "region": "Kota Tangerang",
+                "vote": 1
+              },
+              {
+                "id": 548,
+                "region": "Tangerang Selatan",
+                "vote": 2
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb16209404896c"
+            },
+            "nama": "Yance Nuraini",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg",
+            "descVote": [
+              {
+                "id": 549,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 550,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 551,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ed"
+            },
+            "nama": "Usman Wasita",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/karlkanall/128.jpg",
+            "descVote": [
+              {
+                "id": 552,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 553,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 554,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ee"
+            },
+            "nama": "Cindy Hariyah M.M.",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/sbtransparent/128.jpg",
+            "descVote": [
+              {
+                "id": 555,
+                "region": "Kabupaten Tangerang",
+                "vote": 1
+              },
+              {
+                "id": 556,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 557,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489ef"
+            },
+            "nama": "Cahyo Sihotang",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/vovkasolovev/128.jpg",
+            "descVote": [
+              {
+                "id": 558,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 559,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 560,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489f0"
+            },
+            "nama": "Rini Hariyah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/spbroma/128.jpg",
+            "descVote": [
+              {
+                "id": 561,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 562,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 563,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0db23743f2ec88608ab"
+        },
+        "akronim": "PKS",
+        "bendera": "https://drive.google.com/uc?id=1CbrDfqSLRDKuqENKqgOPe-WYYpvCjIxb",
+        "nama": "PARTAI KEADILAN SEJAHTERA",
+        "vote": 2,
+        "sits": 1,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048971"
+            },
+            "nama": "Ayu Usada M.Ak",
+            "vote": 2,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/prrstn/128.jpg",
+            "descVote": [
+              {
+                "id": 564,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 565,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 566,
+                "region": "Tangerang Selatan",
+                "vote": 2
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b037cb162094048972"
+            },
+            "nama": "Maras Narpati S.Pt",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/andrewofficer/128.jpg",
+            "descVote": [
+              {
+                "id": 567,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 568,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 569,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489f9"
+            },
+            "nama": "Gara Saragih",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/boxmodel/128.jpg",
+            "descVote": [
+              {
+                "id": 570,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 571,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 572,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489fa"
+            },
+            "nama": "Adinata Hardiansyah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mslarkina/128.jpg",
+            "descVote": [
+              {
+                "id": 573,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 574,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 575,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489fb"
+            },
+            "nama": "Gamanto Hakim",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tjisousa/128.jpg",
+            "descVote": [
+              {
+                "id": 576,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 577,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 578,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb1620940489fc"
+            },
+            "nama": "Syahrini Purwanti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kennyadr/128.jpg",
+            "descVote": [
+              {
+                "id": 579,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 580,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 581,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0e823743f2ec88608ac"
+        },
+        "akronim": "PKB",
+        "bendera": "https://drive.google.com/uc?id=1IEMOA-6EwIOTOwwwx7Bb6xCwXL_GdasM",
+        "nama": "PARTAI KEBANGKITAN BANGSA",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048977"
+            },
+            "nama": "Hilda Melani",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dactrtr/128.jpg",
+            "descVote": [
+              {
+                "id": 582,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 583,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 584,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048978"
+            },
+            "nama": "Lalita Aryani",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kianoshp/128.jpg",
+            "descVote": [
+              {
+                "id": 585,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 586,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 587,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a05"
+            },
+            "nama": "Galih Rajasa",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/scottiedude/128.jpg",
+            "descVote": [
+              {
+                "id": 588,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 589,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 590,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a06"
+            },
+            "nama": "Garan Ardianto S.Pt",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/johnsmithagency/128.jpg",
+            "descVote": [
+              {
+                "id": 591,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 592,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 593,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a07"
+            },
+            "nama": "Cornelia Aryani",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/thaodang17/128.jpg",
+            "descVote": [
+              {
+                "id": 594,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 595,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 596,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a08"
+            },
+            "nama": "Karimah Uyainah S.IP",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/plbabin/128.jpg",
+            "descVote": [
+              {
+                "id": 597,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 598,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 599,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c0f523743f2ec88608ad"
+        },
+        "akronim": "Nasdem",
+        "bendera": "https://drive.google.com/uc?id=1Nmykiz_sIWse2im8RfcHzu7vT0dTiJp-",
+        "nama": "PARTAI NASDEM",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404897d"
+            },
+            "nama": "Kani Astuti",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/flexrs/128.jpg",
+            "descVote": [
+              {
+                "id": 600,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 601,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 602,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404897e"
+            },
+            "nama": "Icha Hariyah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/91bilal/128.jpg",
+            "descVote": [
+              {
+                "id": 603,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 604,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 605,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a11"
+            },
+            "nama": "Kayun Sirait",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/iamgarth/128.jpg",
+            "descVote": [
+              {
+                "id": 606,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 607,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 608,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a12"
+            },
+            "nama": "Umar Rajasa",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/charliegann/128.jpg",
+            "descVote": [
+              {
+                "id": 609,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 610,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 611,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a13"
+            },
+            "nama": "Yunita Pertiwi",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/n3dmax/128.jpg",
+            "descVote": [
+              {
+                "id": 612,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 613,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 614,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a14"
+            },
+            "nama": "Uli Hariyah",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kudretkeskin/128.jpg",
+            "descVote": [
+              {
+                "id": 615,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 616,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 617,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c10423743f2ec88608ae"
+        },
+        "akronim": "PPP",
+        "bendera": "https://drive.google.com/uc?id=1aZko_UdGLe_oPgaeGx_Wxf5cnfKRkjbW",
+        "nama": "PARTAI PERSATUAN PEMBANGUNAN",
+        "vote": 0,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048983"
+            },
+            "nama": "Lala Agustina",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/zvchkelly/128.jpg",
+            "descVote": [
+              {
+                "id": 618,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 619,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 620,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048984"
+            },
+            "nama": "Kanda Mahendra",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/amandabuzard/128.jpg",
+            "descVote": [
+              {
+                "id": 621,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 622,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 623,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a1d"
+            },
+            "nama": "Restu Hartati",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/andysolomon/128.jpg",
+            "descVote": [
+              {
+                "id": 624,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 625,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 626,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a1e"
+            },
+            "nama": "Rini Mulyani",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/linkibol/128.jpg",
+            "descVote": [
+              {
+                "id": 627,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 628,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 629,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a1f"
+            },
+            "nama": "Ratna Pertiwi",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kaspernordkvist/128.jpg",
+            "descVote": [
+              {
+                "id": 630,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 631,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 632,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a20"
+            },
+            "nama": "Timbul Mustofa",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mangosango/128.jpg",
+            "descVote": [
+              {
+                "id": 633,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 634,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 635,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c10e23743f2ec88608af"
+        },
+        "akronim": "PSI",
+        "bendera": "https://drive.google.com/uc?id=1VGOQIa4ZwKpC_Wmx-FeuUZauHy0ZYADS",
+        "nama": "PARTAI SOLIDARITAS INDONESIA",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048989"
+            },
+            "nama": "Vera Wijayanti",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/raquelwilson/128.jpg",
+            "descVote": [
+              {
+                "id": 636,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 637,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 638,
+                "region": "Tangerang Selatan",
+                "vote": 1
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404898a"
+            },
+            "nama": "Farah Sudiati S.Ked",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kohette/128.jpg",
+            "descVote": [
+              {
+                "id": 639,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 640,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 641,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a29"
+            },
+            "nama": "Prayoga Maryadi",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dorphern/128.jpg",
+            "descVote": [
+              {
+                "id": 642,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 643,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 644,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a2a"
+            },
+            "nama": "Yoga Nababan S.Gz",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/thomasgeisen/128.jpg",
+            "descVote": [
+              {
+                "id": 645,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 646,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 647,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a2b"
+            },
+            "nama": "Dalima Yolanda",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nilshoenson/128.jpg",
+            "descVote": [
+              {
+                "id": 648,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 649,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 650,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a2c"
+            },
+            "nama": "Jumari Hakim",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/janpalounek/128.jpg",
+            "descVote": [
+              {
+                "id": 651,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 652,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 653,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": {
+          "$oid": "5b29c11923743f2ec88608b0"
+        },
+        "akronim": "PERINDO",
+        "bendera": "https://drive.google.com/uc?id=1cPb4y3Y73tbnGh6FPRO3J5ir06fqwmNZ",
+        "nama": "PERSATUAN INDONESIA",
+        "vote": 1,
+        "sits": 0,
+        "caleg": [
+          {
+            "id": {
+              "$oid": "5edb37b137cb16209404898f"
+            },
+            "nama": "Safina Farida",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/strikewan/128.jpg",
+            "descVote": [
+              {
+                "id": 654,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 655,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 656,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048990"
+            },
+            "nama": "Bella Riyanti M.Kom.",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/juaumlol/128.jpg",
+            "descVote": [
+              {
+                "id": 657,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 658,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 659,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a35"
+            },
+            "nama": "Cahyono Marpaung",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/thatonetommy/128.jpg",
+            "descVote": [
+              {
+                "id": 660,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 661,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 662,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a36"
+            },
+            "nama": "Cinthia Namaga",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/curiousonaut/128.jpg",
+            "descVote": [
+              {
+                "id": 663,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 664,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 665,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a37"
+            },
+            "nama": "Fitria Utami",
+            "vote": 0,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/oscarowusu/128.jpg",
+            "descVote": [
+              {
+                "id": 666,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 667,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 668,
+                "region": "Tangerang Selatan",
+                "vote": 0
+              }
+            ]
+          },
+          {
+            "id": {
+              "$oid": "5edb37b137cb162094048a38"
+            },
+            "nama": "Chelsea Mandasari",
+            "vote": 1,
+            "img": "https://s3.amazonaws.com/uifaces/faces/twitter/mattdetails/128.jpg",
+            "descVote": [
+              {
+                "id": 669,
+                "region": "Kabupaten Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 670,
+                "region": "Kota Tangerang",
+                "vote": 0
+              },
+              {
+                "id": 671,
+                "region": "Tangerang Selatan",
+                "vote": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "createdAt": {
+    "$date": "2020-06-07T03:53:35.074Z"
+  },
+  "dapil": "Banten3",
+  "__v": 0
+}]
