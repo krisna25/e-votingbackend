@@ -1,5 +1,8 @@
 # e-votingbackend
-aplikasi e-voting 
+
+perhatikan:
+e-votingFrontend dan e-voting Backend adalah satu kesatuan yang tidak bisa dipisahkan
+
 
 ## Disclaimer:
 
